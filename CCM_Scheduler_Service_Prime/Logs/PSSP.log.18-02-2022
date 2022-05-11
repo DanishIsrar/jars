@@ -1,0 +1,288 @@
+[2022-02-18 00:00:12,042] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:00:12,073] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:00:12,089] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:00:12 PKT 2022
+[2022-02-18 00:00:12,151] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:00:42,184] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:00:42,184] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:00:42,184] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:00:42 PKT 2022
+[2022-02-18 00:00:42,184] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:01:12,218] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:01:12,218] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:01:12,218] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:01:12 PKT 2022
+[2022-02-18 00:01:12,218] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:01:42,327] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:01:42,327] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:01:42,327] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:01:42 PKT 2022
+[2022-02-18 00:01:42,327] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:02:12,372] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:02:12,372] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:02:12,372] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:02:12 PKT 2022
+[2022-02-18 00:02:12,372] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:02:42,410] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:02:42,410] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:02:42,410] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:02:42 PKT 2022
+[2022-02-18 00:02:42,410] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:03:12,512] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:03:12,512] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:03:12,512] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:03:12 PKT 2022
+[2022-02-18 00:03:12,512] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:03:42,546] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:03:42,546] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:03:42,546] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:03:42 PKT 2022
+[2022-02-18 00:03:42,546] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:04:12,587] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:04:12,587] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:04:12,587] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:04:12 PKT 2022
+[2022-02-18 00:04:12,587] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:04:42,627] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:04:42,653] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:04:42,742] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:04:42 PKT 2022
+[2022-02-18 00:04:42,742] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:05:12,787] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:05:12,787] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:05:12,787] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:05:12 PKT 2022
+[2022-02-18 00:05:12,787] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:05:42,821] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:05:42,821] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:05:42,821] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:05:42 PKT 2022
+[2022-02-18 00:05:42,821] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:06:12,857] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:06:12,857] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:06:12,857] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:06:12 PKT 2022
+[2022-02-18 00:06:12,857] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:06:42,904] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:06:42,904] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:06:42,904] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:06:42 PKT 2022
+[2022-02-18 00:06:42,904] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:07:12,945] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:07:12,945] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:07:12,945] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:07:12 PKT 2022
+[2022-02-18 00:07:12,945] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:07:42,984] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:07:42,984] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:07:42,984] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:07:42 PKT 2022
+[2022-02-18 00:07:42,984] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:08:13,016] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:08:13,016] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:08:13,016] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:08:13 PKT 2022
+[2022-02-18 00:08:13,016] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:08:43,052] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:08:43,052] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:08:43,052] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:08:43 PKT 2022
+[2022-02-18 00:08:43,052] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:09:13,089] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:09:13,089] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:09:13,089] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:09:13 PKT 2022
+[2022-02-18 00:09:13,089] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:09:43,125] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:09:43,125] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:09:43,125] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:09:43 PKT 2022
+[2022-02-18 00:09:43,125] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:10:13,176] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:10:13,176] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:10:13,176] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:10:13 PKT 2022
+[2022-02-18 00:10:13,176] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:10:43,212] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:10:43,212] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:10:43,212] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:10:43 PKT 2022
+[2022-02-18 00:10:43,212] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:11:13,325] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:11:13,325] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:11:13,325] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:11:13 PKT 2022
+[2022-02-18 00:11:13,325] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:11:43,385] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:11:43,385] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:11:43,385] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:11:43 PKT 2022
+[2022-02-18 00:11:43,385] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:12:13,418] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:12:13,418] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:12:13,418] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:12:13 PKT 2022
+[2022-02-18 00:12:13,418] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:12:43,471] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:12:43,471] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:12:43,471] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:12:43 PKT 2022
+[2022-02-18 00:12:43,487] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:13:13,533] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:13:13,533] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:13:13,533] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:13:13 PKT 2022
+[2022-02-18 00:13:13,533] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:13:43,583] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:13:43,583] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:13:43,583] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:13:43 PKT 2022
+[2022-02-18 00:13:43,598] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:14:13,639] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:14:13,639] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:14:13,655] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:14:13 PKT 2022
+[2022-02-18 00:14:13,655] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:14:43,718] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:14:43,718] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:14:43,727] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:14:43 PKT 2022
+[2022-02-18 00:14:43,728] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:15:13,798] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:15:13,798] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:15:13,813] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:15:13 PKT 2022
+[2022-02-18 00:15:13,813] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:15:43,855] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:15:43,855] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:15:43,871] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:15:43 PKT 2022
+[2022-02-18 00:15:43,871] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:16:13,904] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:16:13,904] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:16:13,920] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:16:13 PKT 2022
+[2022-02-18 00:16:13,920] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:16:43,961] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:16:43,961] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:16:43,977] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:16:43 PKT 2022
+[2022-02-18 00:16:43,977] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:17:14,019] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:17:14,019] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:17:14,035] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:17:14 PKT 2022
+[2022-02-18 00:17:14,051] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:17:44,089] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:17:44,089] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:17:44,089] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:17:44 PKT 2022
+[2022-02-18 00:17:44,089] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:18:14,134] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:18:14,134] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:18:14,134] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:18:14 PKT 2022
+[2022-02-18 00:18:14,149] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:18:44,207] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:18:44,207] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:18:44,222] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:18:44 PKT 2022
+[2022-02-18 00:18:44,222] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:19:14,298] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:19:14,302] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:19:14,316] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:19:14 PKT 2022
+[2022-02-18 00:19:14,320] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:19:44,395] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:19:44,395] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:19:44,396] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:19:44 PKT 2022
+[2022-02-18 00:19:44,396] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:20:14,530] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:20:14,530] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:20:14,530] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:20:14 PKT 2022
+[2022-02-18 00:20:14,530] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:20:44,636] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:20:44,636] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:20:44,636] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:20:44 PKT 2022
+[2022-02-18 00:20:44,636] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:21:14,682] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:21:14,682] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:21:14,682] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:21:14 PKT 2022
+[2022-02-18 00:21:14,682] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:21:44,726] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:21:44,726] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:21:44,726] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:21:44 PKT 2022
+[2022-02-18 00:21:44,726] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:22:14,757] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:22:14,757] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:22:14,757] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:22:14 PKT 2022
+[2022-02-18 00:22:14,773] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:22:44,808] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:22:44,808] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:22:44,808] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:22:44 PKT 2022
+[2022-02-18 00:22:44,808] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:23:14,871] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:23:14,886] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:23:14,886] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:23:14 PKT 2022
+[2022-02-18 00:23:14,886] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:23:44,947] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:23:44,947] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:23:44,947] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:23:44 PKT 2022
+[2022-02-18 00:23:44,962] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:24:15,011] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:24:15,011] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:24:15,026] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:24:15 PKT 2022
+[2022-02-18 00:24:15,042] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:24:45,085] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:24:45,101] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:24:45,101] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:24:45 PKT 2022
+[2022-02-18 00:24:45,101] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:25:15,147] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:25:15,147] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:25:15,147] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:25:15 PKT 2022
+[2022-02-18 00:25:17,142] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:25:47,182] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:25:47,182] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:25:47,182] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:25:47 PKT 2022
+[2022-02-18 00:25:47,182] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:26:17,218] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:26:17,218] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:26:17,218] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:26:17 PKT 2022
+[2022-02-18 00:26:17,218] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:26:47,316] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:26:47,316] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:26:47,316] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:26:47 PKT 2022
+[2022-02-18 00:26:47,316] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:27:17,363] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:27:17,363] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:27:17,363] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:27:17 PKT 2022
+[2022-02-18 00:27:17,363] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:27:47,403] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:27:47,403] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:27:47,403] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:27:47 PKT 2022
+[2022-02-18 00:27:47,403] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:28:17,436] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:28:17,436] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:28:17,436] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:28:17 PKT 2022
+[2022-02-18 00:28:17,436] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:28:47,478] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:28:47,478] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:28:47,478] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:28:47 PKT 2022
+[2022-02-18 00:28:47,478] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:29:17,510] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:29:17,510] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:29:17,510] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:29:17 PKT 2022
+[2022-02-18 00:29:17,510] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:29:47,552] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:29:47,552] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:29:47,552] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:29:47 PKT 2022
+[2022-02-18 00:29:47,552] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:30:17,589] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:30:17,589] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:30:17,589] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:30:17 PKT 2022
+[2022-02-18 00:30:17,589] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:30:47,624] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:30:47,624] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:30:47,624] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:30:47 PKT 2022
+[2022-02-18 00:30:47,624] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:31:17,667] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:31:17,667] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:31:17,667] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:31:17 PKT 2022
+[2022-02-18 00:31:17,667] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:31:47,713] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:31:47,713] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:31:47,713] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:31:47 PKT 2022
+[2022-02-18 00:31:47,713] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:32:17,756] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:32:17,756] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:32:17,756] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:32:17 PKT 2022
+[2022-02-18 00:32:17,756] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:32:47,793] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:32:47,793] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:32:47,793] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:32:47 PKT 2022
+[2022-02-18 00:32:47,793] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:33:17,830] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:33:17,830] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:33:17,830] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:33:17 PKT 2022
+[2022-02-18 00:33:17,830] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:33:47,875] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:33:47,875] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:33:47,875] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:33:47 PKT 2022
+[2022-02-18 00:33:47,875] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:34:17,914] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:34:17,929] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:34:17,929] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:34:17 PKT 2022
+[2022-02-18 00:34:17,929] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:34:47,975] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:34:47,975] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:34:47,975] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:34:47 PKT 2022
+[2022-02-18 00:34:47,975] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:35:18,030] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:35:18,030] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:35:18,030] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:35:18 PKT 2022
+[2022-02-18 00:35:18,030] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:35:48,105] [INFO] PatientBL:60 - *************Schedular called for ID : F724B47F-1170-4805-B1D7-60C31686AD47 Size : 0
+[2022-02-18 00:35:48,105] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:35:48,105] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:35:48 PKT 2022
+[2022-02-18 00:35:48,105] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0

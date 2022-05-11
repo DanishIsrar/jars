@@ -1,0 +1,231 @@
+[2022-02-18 00:00:00,003] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:00:00 PKT 2022
+[2022-02-18 00:00:00,019] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:00:00,113] [INFO] PatientDAO:270 - Suspended Schedules count: 3
+[2022-02-18 00:00:30,124] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 2
+[2022-02-18 00:00:30,124] [INFO] PatientTask:150 - new instance created
+[2022-02-18 00:00:30,124] [INFO] PatientTask:150 - new instance created
+[2022-02-18 00:00:30,155] [INFO] PatientTask:310 - Consolidation Step Started Patient bearing ID: 566707 MRN: M000480241 Practice ID: 1234567890 Enterprise Id: 382397643 PPID: 4564351687990992456
+[2022-02-18 00:00:30,155] [INFO] PatientTask:310 - Consolidation Step Started Patient bearing ID: 564272 MRN: EntMerging505 Practice ID: 381369611 Enterprise Id: mhpn PPID: 6122299610595275414
+[2022-02-18 00:00:31,061] [INFO] PatientTask:369 - Consolidation Step Completed Patient bearing ID: 564272 MRN: EntMerging505 Practice ID: 381369611 Enterprise Id: mhpn PPID: 6122299610595275414
+[2022-02-18 00:00:31,061] [INFO] PatientTask:245 -  Patient bearing ID: 564272 MRN: EntMerging505 Practice ID: 381369611 Enterprise Id: mhpn consolidated successfully
+[2022-02-18 00:00:31,186] [INFO] PatientTask:515 - Step Start Check Patient Eligibility For Simple Program For  Patient bearing ID: 564272 Practice ID: 381369611 Enterprise Id: mhpn
+[2022-02-18 00:00:32,607] [INFO] PatientTask:518 - Step Complete Check Patient Eligibility For Simple Program For  Patient bearing ID: 564272 Practice ID: 381369611 Enterprise Id: mhpn
+[2022-02-18 00:00:33,386] [INFO] PatientTask:624 - Patient eligibility for simple program name is: Annual Wellness Visit and code is: AWV
+[2022-02-18 00:00:33,386] [INFO] PatientTask:624 - Patient eligibility for simple program name is: COVID-19 and code is: COVID-19
+[2022-02-18 00:00:33,386] [INFO] PatientTask:624 - Patient eligibility for simple program name is: Comprehensive Primary Care Plus and code is: CPC+
+[2022-02-18 00:00:33,386] [INFO] PatientTask:624 - Patient eligibility for simple program name is: Clinical Practice Improvement Activities and code is: CPIA
+[2022-02-18 00:00:33,386] [INFO] PatientTask:624 - Patient eligibility for simple program name is: MCARE and code is: MCARE
+[2022-02-18 00:00:33,386] [INFO] PatientTask:624 - Patient eligibility for simple program name is: Readmission and code is: Readmission
+[2022-02-18 00:00:33,417] [INFO] PatientDAO:2938 - usp_UpdatePatientEligibilityforSimplePrograms params received are: Patient_Key= 564272 PracticeID= -1 EnterpriseID= mhpn IneligibleProgramsIds= 3,42,39
+[2022-02-18 00:00:33,433] [INFO] PatientTask:466 - Step Fetch Patient Eligible Programs List For ccm Patient bearing ID: 564272 Practice ID: 381369611 Enterprise Id: mhpn
+[2022-02-18 00:00:34,342] [INFO] PatientTask:475 - Complete Step Fetch Patient Eligible Programs List For ccm Patient bearing ID: 564272 Practice ID: 381369611 Enterprise Id: mhpn
+[2022-02-18 00:00:34,342] [INFO] PatientTask:499 - Start Step Update Patient Eligibility For ccm chronicConditionIds 20928 Patient bearing ID: 564272 MRN: EntMerging505 Practice ID: 381369611 Enterprise Id: mhpn
+[2022-02-18 00:00:34,358] [INFO] PatientDAO:2920 - updatePatientEligibilityforCCM params are: patientId: 564272 mrn: EntMerging505 practiceId: -1 enterpriseId: mhpn chronicConditionIds: 20928 isPayerEligible: true enrollmentStatus Active
+[2022-02-18 00:00:34,373] [INFO] PatientTask:505 - Complete Step Update Patient Eligibility For ccm chronicConditionIds 20928 Patient bearing ID: 564272 MRN: EntMerging505 Practice ID: 381369611 Enterprise Id: mhpn
+[2022-02-18 00:00:34,373] [INFO] PatientTask:731 - Step Fetch Patient Recommendation Catalogs List For  Patient bearing ID: 564272 MRN: EntMerging505 Practice ID: 381369611 Enterprise Id: mhpn
+[2022-02-18 00:00:34,404] [INFO] PatientPESSummaryService:243 - chronic condition Ids:20928
+[2022-02-18 00:00:34,404] [INFO] PatientPESSummaryService:245 - Eligible Program Names:CPC+,CPIA,Readmission
+[2022-02-18 00:00:34,404] [INFO] PatientTask:735 - Complete Step Fetch Patient Recommendation Catalogs List For  Patient bearing ID: 564272 MRN: EntMerging505 Practice ID: 381369611 Enterprise Id: mhpn
+[2022-02-18 00:00:34,404] [INFO] PatientTask:776 - Complete Step Fetch Patient Recommendation Catalogs List For ppId:6122299610595275414,[Real_time_rules_catalog, Master_Rec, CPC_+_CR, CPC_plus_HCC, Readmission_Rec]
+[2022-02-18 00:00:35,715] [INFO] PatientTask:369 - Consolidation Step Completed Patient bearing ID: 566707 MRN: M000480241 Practice ID: 1234567890 Enterprise Id: 382397643 PPID: 4564351687990992456
+[2022-02-18 00:00:35,715] [INFO] PatientTask:245 -  Patient bearing ID: 566707 MRN: M000480241 Practice ID: 1234567890 Enterprise Id: 382397643 consolidated successfully
+[2022-02-18 00:00:35,964] [INFO] PatientTask:515 - Step Start Check Patient Eligibility For Simple Program For  Patient bearing ID: 566707 Practice ID: 1234567890,382988086_31,382334827 Enterprise Id: 382397643
+[2022-02-18 00:00:42,506] [INFO] PatientDAO:9161 -  Patient bearing ID: 564272 recommendation alerts deleted status 1
+[2022-02-18 00:00:42,506] [INFO] PatientTask:794 - Patient recommended catalog code is: CPC_+_CR chronic condition id is: -1 and program name is: CPC+
+[2022-02-18 00:00:42,506] [INFO] PatientTask:810 - Step Start Patient Evaluation Against Catalog For  Patient bearing ID: 564272 PPID: 6122299610595275414 Practice ID: 381369611 Enterprise Id: mhpn
+[2022-02-18 00:00:42,508] [INFO] PatientTask:827 - Step Completed Update Patient Alerts For   Patient bearing ID: 564272 MRN: EntMerging505 Practice ID: 381369611 Enterprise Id: mhpn chronic condition id is: -1
+[2022-02-18 00:00:42,508] [INFO] PatientTask:794 - Patient recommended catalog code is: CPC_plus_HCC chronic condition id is: -1 and program name is: CPC+
+[2022-02-18 00:00:42,509] [INFO] PatientTask:810 - Step Start Patient Evaluation Against Catalog For  Patient bearing ID: 564272 PPID: 6122299610595275414 Practice ID: 381369611 Enterprise Id: mhpn
+[2022-02-18 00:00:42,509] [INFO] PatientTask:827 - Step Completed Update Patient Alerts For   Patient bearing ID: 564272 MRN: EntMerging505 Practice ID: 381369611 Enterprise Id: mhpn chronic condition id is: -1
+[2022-02-18 00:00:42,509] [INFO] PatientTask:794 - Patient recommended catalog code is: Master_Rec chronic condition id is: -1 and program name is: CPIA
+[2022-02-18 00:00:42,510] [INFO] PatientTask:810 - Step Start Patient Evaluation Against Catalog For  Patient bearing ID: 564272 PPID: 6122299610595275414 Practice ID: 381369611 Enterprise Id: mhpn
+[2022-02-18 00:00:42,678] [INFO] PatientDAO:9070 - PSS saveConsolidatedPatientAlerts DB Batch operation time taken: 62 miliseconds for patient: 564272 batch size: 20
+[2022-02-18 00:00:42,678] [INFO] PatientTask:827 - Step Completed Update Patient Alerts For   Patient bearing ID: 564272 MRN: EntMerging505 Practice ID: 381369611 Enterprise Id: mhpn chronic condition id is: -1
+[2022-02-18 00:00:42,678] [INFO] PatientTask:794 - Patient recommended catalog code is: Readmission_Rec chronic condition id is: -1 and program name is: Readmission
+[2022-02-18 00:00:42,678] [INFO] PatientTask:810 - Step Start Patient Evaluation Against Catalog For  Patient bearing ID: 564272 PPID: 6122299610595275414 Practice ID: 381369611 Enterprise Id: mhpn
+[2022-02-18 00:00:42,678] [INFO] PatientTask:827 - Step Completed Update Patient Alerts For   Patient bearing ID: 564272 MRN: EntMerging505 Practice ID: 381369611 Enterprise Id: mhpn chronic condition id is: -1
+[2022-02-18 00:00:42,678] [INFO] PatientTask:794 - Patient recommended catalog code is: Real_time_rules_catalog chronic condition id is: -1 and program name is: CPIA
+[2022-02-18 00:00:42,678] [INFO] PatientTask:810 - Step Start Patient Evaluation Against Catalog For  Patient bearing ID: 564272 PPID: 6122299610595275414 Practice ID: 381369611 Enterprise Id: mhpn
+[2022-02-18 00:00:42,678] [INFO] PatientTask:827 - Step Completed Update Patient Alerts For   Patient bearing ID: 564272 MRN: EntMerging505 Practice ID: 381369611 Enterprise Id: mhpn chronic condition id is: -1
+[2022-02-18 00:00:42,964] [INFO] PatientTask:893 - Completed Evaluation For  Patient bearing ID: 564272 MRN: EntMerging505 Practice ID: 381369611 Enterprise Id: mhpn
+[2022-02-18 00:00:46,490] [INFO] PatientTask:518 - Step Complete Check Patient Eligibility For Simple Program For  Patient bearing ID: 566707 Practice ID: 1234567890,382988086_31,382334827 Enterprise Id: 382397643
+[2022-02-18 00:01:13,927] [INFO] PatientTask:624 - Patient eligibility for simple program name is: Advance care planning and code is: ACP
+[2022-02-18 00:01:13,928] [INFO] PatientTask:624 - Patient eligibility for simple program name is: Annual Wellness Visit and code is: AWV
+[2022-02-18 00:01:13,928] [INFO] PatientTask:624 - Patient eligibility for simple program name is: Pharmacogenomics Program and code is: BHI
+[2022-02-18 00:01:13,928] [INFO] PatientTask:624 - Patient eligibility for simple program name is: CGT and code is: CGT
+[2022-02-18 00:01:13,928] [INFO] PatientTask:624 - Patient eligibility for simple program name is: COVID-19 and code is: COVID-19
+[2022-02-18 00:01:13,928] [INFO] PatientTask:624 - Patient eligibility for simple program name is: Comprehensive Primary Care Plus and code is: CPC+
+[2022-02-18 00:01:13,928] [INFO] PatientTask:624 - Patient eligibility for simple program name is: Clinical Practice Improvement Activities and code is: CPIA
+[2022-02-18 00:01:13,928] [INFO] PatientTask:624 - Patient eligibility for simple program name is: HCC and code is: HCC
+[2022-02-18 00:01:13,928] [INFO] PatientTask:624 - Patient eligibility for simple program name is: Heart Failure and code is: Heart Failure
+[2022-02-18 00:01:13,928] [INFO] PatientTask:624 - Patient eligibility for simple program name is:   Healthcare Effectiveness Data and Information and code is: HEDIS
+[2022-02-18 00:01:13,928] [INFO] PatientTask:624 - Patient eligibility for simple program name is: HEDIS-DVH and code is: HEDIS-DVH
+[2022-02-18 00:01:13,928] [INFO] PatientTask:624 - Patient eligibility for simple program name is: MCARE and code is: MCARE
+[2022-02-18 00:01:13,928] [INFO] PatientTask:624 - Patient eligibility for simple program name is:  MIPS and code is: MIPS
+[2022-02-18 00:01:13,928] [INFO] PatientTask:624 - Patient eligibility for simple program name is: Pain Management and code is: Pain Management
+[2022-02-18 00:01:13,928] [INFO] PatientTask:624 - Patient eligibility for simple program name is: Readmission and code is: Readmission
+[2022-02-18 00:01:13,928] [INFO] PatientTask:624 - Patient eligibility for simple program name is: Revenue Optimization and code is: Revenue Optimization
+[2022-02-18 00:01:13,990] [INFO] PatientDAO:2938 - usp_UpdatePatientEligibilityforSimplePrograms params received are: Patient_Key= 566707 PracticeID= -1 EnterpriseID= 382397643 IneligibleProgramsIds= 5,3,39
+[2022-02-18 00:01:14,021] [INFO] PatientTask:466 - Step Fetch Patient Eligible Programs List For ccm Patient bearing ID: 566707 Practice ID: 1234567890,382988086_31,382334827 Enterprise Id: 382397643
+[2022-02-18 00:01:20,936] [INFO] PatientTask:475 - Complete Step Fetch Patient Eligible Programs List For ccm Patient bearing ID: 566707 Practice ID: 1234567890,382988086_31,382334827 Enterprise Id: 382397643
+[2022-02-18 00:01:20,936] [INFO] PatientTask:499 - Start Step Update Patient Eligibility For ccm chronicConditionIds 21154,21160,21137,21127,21132,21134,21190,21130,21143,21133,21187,21174,21189,21131,21128,21135,21179,21185,21158,21126 Patient bearing ID: 566707 MRN: M000480241 Practice ID: 1234567890 Enterprise Id: 382397643
+[2022-02-18 00:01:20,952] [INFO] PatientDAO:2920 - updatePatientEligibilityforCCM params are: patientId: 566707 mrn: M000480241 practiceId: -1 enterpriseId: 382397643 chronicConditionIds: 21154,21160,21137,21127,21132,21134,21190,21130,21143,21133,21187,21174,21189,21131,21128,21135,21179,21185,21158,21126 isPayerEligible: true enrollmentStatus Eligible
+[2022-02-18 00:01:20,967] [INFO] PatientTask:505 - Complete Step Update Patient Eligibility For ccm chronicConditionIds 21154,21160,21137,21127,21132,21134,21190,21130,21143,21133,21187,21174,21189,21131,21128,21135,21179,21185,21158,21126 Patient bearing ID: 566707 MRN: M000480241 Practice ID: 1234567890 Enterprise Id: 382397643
+[2022-02-18 00:01:20,967] [INFO] PatientTask:731 - Step Fetch Patient Recommendation Catalogs List For  Patient bearing ID: 566707 MRN: M000480241 Practice ID: 1234567890,382988086_31,382334827 Enterprise Id: 382397643
+[2022-02-18 00:01:20,999] [INFO] PatientPESSummaryService:243 - chronic condition Ids:21154,21160,21137,21127,21132,21134,21190,21130,21143,21133,21187,21174,21189,21131,21128,21135,21179,21185,21158,21126
+[2022-02-18 00:01:20,999] [INFO] PatientPESSummaryService:245 - Eligible Program Names:BHI,HEDIS,Pain Management,HCC,CPC+,HEDIS-DVH,Readmission,COVID-19,CGT,Heart Failure,CPIA,MIPS,Revenue Optimization
+[2022-02-18 00:01:20,999] [INFO] PatientTask:735 - Complete Step Fetch Patient Recommendation Catalogs List For  Patient bearing ID: 566707 MRN: M000480241 Practice ID: 1234567890,382988086_31,382334827 Enterprise Id: 382397643
+[2022-02-18 00:01:21,014] [INFO] PatientTask:776 - Complete Step Fetch Patient Recommendation Catalogs List For ppId:4564351687990992456,[CCM_Rec_Sleep_Apnea, CCM_Rec_GERD, Real_time_rules_catalog, CCM_Rec_RLS, COVID_2019_REC, CCM_REC_Nerve_Pain, CCM_Rec_CKD, CPC_plus_HCC, CCM_Recommendation_Headache, HEDIS_DVH_REC, Readmission_Rec, CCM_REC_Bursitis_Tendinits, CCM_REC_Sacroiliitis, Pain_Monitoring, CCM_REC_Myopathy, CCM_Rec_Neuropathy, CCM_Rec_Insomnia, CCM_Rec_Obesity, BHI_MR, CCM_Rec_AFib/Aflutter, 2019_HCC, CCM_Rec_Other_Psychotic_Disorder, CCM_REC_Fibromyalgia, CCM_Rec_IVD, CCM_Rec_General, CCM_Rec_BPH, CPC_+_CR, CCM_DM_Test, CCM_Rec_Stroke, CCM_Recommendation_GOUT, MIPS_Rec, CCM_Rec_COPD, CCM_Rec_Hypertension, Pain_Management_QPP, Master_Rec, CCM_REC_LBP_NP, CCM_Rec_Breast_Cancer, CCM_Rec_DM, RISK_SCORE_HF, CCM_Rec_Rheumatoid_Arthritis]
+[2022-02-18 00:11:21,168] [ERROR] PatientTask:266 - Exception Trace: 
+java.net.ConnectException: Read Time out
+	at d1.ws.D1PESServiceUtil.evaluatePatient_hl7_v3_cda_r2_CatalogList_xmlOptions_Consolidated(D1PESServiceUtil.java:680)
+	at com.alere.cm.service.PatientPESSummaryService.evaluatePatient_hl7_v3_cda_r2_CatalogList_xmlOptions_Consolidated(PatientPESSummaryService.java:277)
+	at com.alere.cm.service.PatientTask.evaluatePatient(PatientTask.java:777)
+	at com.alere.cm.service.PatientTask.process(PatientTask.java:251)
+	at com.alere.cm.service.PatientTask.call(PatientTask.java:2717)
+	at com.alere.cm.service.PatientTask.call(PatientTask.java:115)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[2022-02-18 00:11:21,230] [ERROR] PatientBL:80 - Exception Trace: 
+java.util.concurrent.ExecutionException: java.net.ConnectException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192)
+	at com.alere.cm.service.PatientBL.getPatientsInfoForScheduler(PatientBL.java:74)
+	at com.alere.cm.scheduler.ConsolidateAndEvaluatePatientScheduler.executeInternal(ConsolidateAndEvaluatePatientScheduler.java:32)
+	at org.springframework.scheduling.quartz.QuartzJobBean.execute(QuartzJobBean.java:75)
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:202)
+	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:573)
+Caused by: java.net.ConnectException
+	at com.alere.cm.service.PatientTask.process(PatientTask.java:270)
+	at com.alere.cm.service.PatientTask.call(PatientTask.java:2717)
+	at com.alere.cm.service.PatientTask.call(PatientTask.java:115)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[2022-02-18 00:11:21,230] [INFO] PatientBL:74 - Thread Completion Response::Thread for Scheduler ID: 495276 is done
+[2022-02-18 00:11:21,230] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:11:21,309] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:11:21 PKT 2022
+[2022-02-18 00:11:21,325] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:11:21,450] [INFO] PatientDAO:270 - Suspended Schedules count: 1
+[2022-02-18 00:11:51,457] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 1
+[2022-02-18 00:11:51,473] [INFO] PatientTask:150 - new instance created
+[2022-02-18 00:11:51,535] [INFO] PatientTask:310 - Consolidation Step Started Patient bearing ID: 564272 MRN: EntMerging505 Practice ID: 381369611 Enterprise Id: mhpn PPID: 6122299610595275414
+[2022-02-18 00:11:53,470] [INFO] PatientTask:369 - Consolidation Step Completed Patient bearing ID: 564272 MRN: EntMerging505 Practice ID: 381369611 Enterprise Id: mhpn PPID: 6122299610595275414
+[2022-02-18 00:11:53,470] [INFO] PatientTask:245 -  Patient bearing ID: 564272 MRN: EntMerging505 Practice ID: 381369611 Enterprise Id: mhpn consolidated successfully
+[2022-02-18 00:11:53,611] [INFO] PatientTask:515 - Step Start Check Patient Eligibility For Simple Program For  Patient bearing ID: 564272 Practice ID: 381369611 Enterprise Id: mhpn
+[2022-02-18 00:13:21,302] [INFO] PatientTask:518 - Step Complete Check Patient Eligibility For Simple Program For  Patient bearing ID: 564272 Practice ID: 381369611 Enterprise Id: mhpn
+[2022-02-18 00:13:31,405] [INFO] PatientTask:624 - Patient eligibility for simple program name is: Annual Wellness Visit and code is: AWV
+[2022-02-18 00:13:31,405] [INFO] PatientTask:624 - Patient eligibility for simple program name is: COVID-19 and code is: COVID-19
+[2022-02-18 00:13:31,405] [INFO] PatientTask:624 - Patient eligibility for simple program name is: Comprehensive Primary Care Plus and code is: CPC+
+[2022-02-18 00:13:31,405] [INFO] PatientTask:624 - Patient eligibility for simple program name is: Clinical Practice Improvement Activities and code is: CPIA
+[2022-02-18 00:13:31,405] [INFO] PatientTask:624 - Patient eligibility for simple program name is: MCARE and code is: MCARE
+[2022-02-18 00:13:31,420] [INFO] PatientTask:624 - Patient eligibility for simple program name is: Readmission and code is: Readmission
+[2022-02-18 00:13:31,436] [INFO] PatientDAO:2938 - usp_UpdatePatientEligibilityforSimplePrograms params received are: Patient_Key= 564272 PracticeID= -1 EnterpriseID= mhpn IneligibleProgramsIds= 3,42,39
+[2022-02-18 00:13:31,452] [INFO] PatientTask:466 - Step Fetch Patient Eligible Programs List For ccm Patient bearing ID: 564272 Practice ID: 381369611 Enterprise Id: mhpn
+[2022-02-18 00:13:52,629] [INFO] PatientTask:475 - Complete Step Fetch Patient Eligible Programs List For ccm Patient bearing ID: 564272 Practice ID: 381369611 Enterprise Id: mhpn
+[2022-02-18 00:13:52,629] [INFO] PatientTask:499 - Start Step Update Patient Eligibility For ccm chronicConditionIds 20928 Patient bearing ID: 564272 MRN: EntMerging505 Practice ID: 381369611 Enterprise Id: mhpn
+[2022-02-18 00:13:52,645] [INFO] PatientDAO:2920 - updatePatientEligibilityforCCM params are: patientId: 564272 mrn: EntMerging505 practiceId: -1 enterpriseId: mhpn chronicConditionIds: 20928 isPayerEligible: true enrollmentStatus Active
+[2022-02-18 00:13:52,660] [INFO] PatientTask:505 - Complete Step Update Patient Eligibility For ccm chronicConditionIds 20928 Patient bearing ID: 564272 MRN: EntMerging505 Practice ID: 381369611 Enterprise Id: mhpn
+[2022-02-18 00:13:52,660] [INFO] PatientTask:731 - Step Fetch Patient Recommendation Catalogs List For  Patient bearing ID: 564272 MRN: EntMerging505 Practice ID: 381369611 Enterprise Id: mhpn
+[2022-02-18 00:13:52,676] [INFO] PatientPESSummaryService:243 - chronic condition Ids:20928
+[2022-02-18 00:13:52,676] [INFO] PatientPESSummaryService:245 - Eligible Program Names:CPC+,CPIA,Readmission
+[2022-02-18 00:13:52,676] [INFO] PatientTask:735 - Complete Step Fetch Patient Recommendation Catalogs List For  Patient bearing ID: 564272 MRN: EntMerging505 Practice ID: 381369611 Enterprise Id: mhpn
+[2022-02-18 00:13:52,676] [INFO] PatientTask:776 - Complete Step Fetch Patient Recommendation Catalogs List For ppId:6122299610595275414,[Real_time_rules_catalog, Master_Rec, CPC_+_CR, CPC_plus_HCC, Readmission_Rec]
+[2022-02-18 00:14:01,990] [INFO] PatientDAO:9161 -  Patient bearing ID: 564272 recommendation alerts deleted status 1
+[2022-02-18 00:14:01,990] [INFO] PatientTask:794 - Patient recommended catalog code is: CPC_+_CR chronic condition id is: -1 and program name is: CPC+
+[2022-02-18 00:14:01,990] [INFO] PatientTask:810 - Step Start Patient Evaluation Against Catalog For  Patient bearing ID: 564272 PPID: 6122299610595275414 Practice ID: 381369611 Enterprise Id: mhpn
+[2022-02-18 00:14:01,990] [INFO] PatientTask:827 - Step Completed Update Patient Alerts For   Patient bearing ID: 564272 MRN: EntMerging505 Practice ID: 381369611 Enterprise Id: mhpn chronic condition id is: -1
+[2022-02-18 00:14:01,990] [INFO] PatientTask:794 - Patient recommended catalog code is: CPC_plus_HCC chronic condition id is: -1 and program name is: CPC+
+[2022-02-18 00:14:01,990] [INFO] PatientTask:810 - Step Start Patient Evaluation Against Catalog For  Patient bearing ID: 564272 PPID: 6122299610595275414 Practice ID: 381369611 Enterprise Id: mhpn
+[2022-02-18 00:14:01,990] [INFO] PatientTask:827 - Step Completed Update Patient Alerts For   Patient bearing ID: 564272 MRN: EntMerging505 Practice ID: 381369611 Enterprise Id: mhpn chronic condition id is: -1
+[2022-02-18 00:14:01,990] [INFO] PatientTask:794 - Patient recommended catalog code is: Master_Rec chronic condition id is: -1 and program name is: CPIA
+[2022-02-18 00:14:01,990] [INFO] PatientTask:810 - Step Start Patient Evaluation Against Catalog For  Patient bearing ID: 564272 PPID: 6122299610595275414 Practice ID: 381369611 Enterprise Id: mhpn
+[2022-02-18 00:14:02,115] [INFO] PatientDAO:9070 - PSS saveConsolidatedPatientAlerts DB Batch operation time taken: 62 miliseconds for patient: 564272 batch size: 20
+[2022-02-18 00:14:02,115] [INFO] PatientTask:827 - Step Completed Update Patient Alerts For   Patient bearing ID: 564272 MRN: EntMerging505 Practice ID: 381369611 Enterprise Id: mhpn chronic condition id is: -1
+[2022-02-18 00:14:02,115] [INFO] PatientTask:794 - Patient recommended catalog code is: Readmission_Rec chronic condition id is: -1 and program name is: Readmission
+[2022-02-18 00:14:02,115] [INFO] PatientTask:810 - Step Start Patient Evaluation Against Catalog For  Patient bearing ID: 564272 PPID: 6122299610595275414 Practice ID: 381369611 Enterprise Id: mhpn
+[2022-02-18 00:14:02,115] [INFO] PatientTask:827 - Step Completed Update Patient Alerts For   Patient bearing ID: 564272 MRN: EntMerging505 Practice ID: 381369611 Enterprise Id: mhpn chronic condition id is: -1
+[2022-02-18 00:14:02,115] [INFO] PatientTask:794 - Patient recommended catalog code is: Real_time_rules_catalog chronic condition id is: -1 and program name is: CPIA
+[2022-02-18 00:14:02,115] [INFO] PatientTask:810 - Step Start Patient Evaluation Against Catalog For  Patient bearing ID: 564272 PPID: 6122299610595275414 Practice ID: 381369611 Enterprise Id: mhpn
+[2022-02-18 00:14:02,115] [INFO] PatientTask:827 - Step Completed Update Patient Alerts For   Patient bearing ID: 564272 MRN: EntMerging505 Practice ID: 381369611 Enterprise Id: mhpn chronic condition id is: -1
+[2022-02-18 00:14:02,350] [INFO] PatientTask:893 - Completed Evaluation For  Patient bearing ID: 564272 MRN: EntMerging505 Practice ID: 381369611 Enterprise Id: mhpn
+[2022-02-18 00:14:02,397] [INFO] PatientBL:74 - Thread Completion Response::Thread for Scheduler ID: 495277 is done
+[2022-02-18 00:14:02,397] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:14:02,397] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:14:02 PKT 2022
+[2022-02-18 00:14:02,397] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:14:32,497] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-18 00:14:32,497] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:15:00,001] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:15:00 PKT 2022
+[2022-02-18 00:15:00,017] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:15:30,057] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-18 00:15:30,057] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:18:00,005] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:18:00 PKT 2022
+[2022-02-18 00:18:00,005] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:18:00,052] [INFO] PatientDAO:270 - Suspended Schedules count: 1
+[2022-02-18 00:18:30,055] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 1
+[2022-02-18 00:18:30,055] [INFO] PatientTask:150 - new instance created
+[2022-02-18 00:18:30,070] [INFO] PatientTask:310 - Consolidation Step Started Patient bearing ID: 564272 MRN: EntMerging505 Practice ID: 381369611 Enterprise Id: mhpn PPID: 6122299610595275414
+[2022-02-18 00:18:30,570] [INFO] PatientTask:369 - Consolidation Step Completed Patient bearing ID: 564272 MRN: EntMerging505 Practice ID: 381369611 Enterprise Id: mhpn PPID: 6122299610595275414
+[2022-02-18 00:18:30,570] [INFO] PatientTask:245 -  Patient bearing ID: 564272 MRN: EntMerging505 Practice ID: 381369611 Enterprise Id: mhpn consolidated successfully
+[2022-02-18 00:18:30,694] [INFO] PatientTask:515 - Step Start Check Patient Eligibility For Simple Program For  Patient bearing ID: 564272 Practice ID: 381369611 Enterprise Id: mhpn
+[2022-02-18 00:18:31,537] [INFO] PatientTask:518 - Step Complete Check Patient Eligibility For Simple Program For  Patient bearing ID: 564272 Practice ID: 381369611 Enterprise Id: mhpn
+[2022-02-18 00:18:32,176] [INFO] PatientTask:624 - Patient eligibility for simple program name is: Annual Wellness Visit and code is: AWV
+[2022-02-18 00:18:32,176] [INFO] PatientTask:624 - Patient eligibility for simple program name is: COVID-19 and code is: COVID-19
+[2022-02-18 00:18:32,176] [INFO] PatientTask:624 - Patient eligibility for simple program name is: Comprehensive Primary Care Plus and code is: CPC+
+[2022-02-18 00:18:32,176] [INFO] PatientTask:624 - Patient eligibility for simple program name is: Clinical Practice Improvement Activities and code is: CPIA
+[2022-02-18 00:18:32,176] [INFO] PatientTask:624 - Patient eligibility for simple program name is: MCARE and code is: MCARE
+[2022-02-18 00:18:32,176] [INFO] PatientTask:624 - Patient eligibility for simple program name is: Readmission and code is: Readmission
+[2022-02-18 00:18:32,208] [INFO] PatientDAO:2938 - usp_UpdatePatientEligibilityforSimplePrograms params received are: Patient_Key= 564272 PracticeID= -1 EnterpriseID= mhpn IneligibleProgramsIds= 3,42,39
+[2022-02-18 00:18:32,223] [INFO] PatientTask:466 - Step Fetch Patient Eligible Programs List For ccm Patient bearing ID: 564272 Practice ID: 381369611 Enterprise Id: mhpn
+[2022-02-18 00:18:33,036] [INFO] PatientTask:475 - Complete Step Fetch Patient Eligible Programs List For ccm Patient bearing ID: 564272 Practice ID: 381369611 Enterprise Id: mhpn
+[2022-02-18 00:18:33,036] [INFO] PatientTask:499 - Start Step Update Patient Eligibility For ccm chronicConditionIds 20928 Patient bearing ID: 564272 MRN: EntMerging505 Practice ID: 381369611 Enterprise Id: mhpn
+[2022-02-18 00:18:33,130] [INFO] PatientDAO:2920 - updatePatientEligibilityforCCM params are: patientId: 564272 mrn: EntMerging505 practiceId: -1 enterpriseId: mhpn chronicConditionIds: 20928 isPayerEligible: true enrollmentStatus Active
+[2022-02-18 00:18:33,146] [INFO] PatientTask:505 - Complete Step Update Patient Eligibility For ccm chronicConditionIds 20928 Patient bearing ID: 564272 MRN: EntMerging505 Practice ID: 381369611 Enterprise Id: mhpn
+[2022-02-18 00:18:33,146] [INFO] PatientTask:731 - Step Fetch Patient Recommendation Catalogs List For  Patient bearing ID: 564272 MRN: EntMerging505 Practice ID: 381369611 Enterprise Id: mhpn
+[2022-02-18 00:18:33,161] [INFO] PatientPESSummaryService:243 - chronic condition Ids:20928
+[2022-02-18 00:18:33,161] [INFO] PatientPESSummaryService:245 - Eligible Program Names:CPC+,CPIA,Readmission
+[2022-02-18 00:18:33,161] [INFO] PatientTask:735 - Complete Step Fetch Patient Recommendation Catalogs List For  Patient bearing ID: 564272 MRN: EntMerging505 Practice ID: 381369611 Enterprise Id: mhpn
+[2022-02-18 00:18:33,161] [INFO] PatientTask:776 - Complete Step Fetch Patient Recommendation Catalogs List For ppId:6122299610595275414,[Real_time_rules_catalog, Master_Rec, CPC_+_CR, CPC_plus_HCC, Readmission_Rec]
+[2022-02-18 00:18:35,969] [INFO] PatientDAO:9161 -  Patient bearing ID: 564272 recommendation alerts deleted status 1
+[2022-02-18 00:18:35,969] [INFO] PatientTask:794 - Patient recommended catalog code is: CPC_+_CR chronic condition id is: -1 and program name is: CPC+
+[2022-02-18 00:18:35,969] [INFO] PatientTask:810 - Step Start Patient Evaluation Against Catalog For  Patient bearing ID: 564272 PPID: 6122299610595275414 Practice ID: 381369611 Enterprise Id: mhpn
+[2022-02-18 00:18:35,985] [INFO] PatientTask:827 - Step Completed Update Patient Alerts For   Patient bearing ID: 564272 MRN: EntMerging505 Practice ID: 381369611 Enterprise Id: mhpn chronic condition id is: -1
+[2022-02-18 00:18:35,985] [INFO] PatientTask:794 - Patient recommended catalog code is: CPC_plus_HCC chronic condition id is: -1 and program name is: CPC+
+[2022-02-18 00:18:35,985] [INFO] PatientTask:810 - Step Start Patient Evaluation Against Catalog For  Patient bearing ID: 564272 PPID: 6122299610595275414 Practice ID: 381369611 Enterprise Id: mhpn
+[2022-02-18 00:18:35,985] [INFO] PatientTask:827 - Step Completed Update Patient Alerts For   Patient bearing ID: 564272 MRN: EntMerging505 Practice ID: 381369611 Enterprise Id: mhpn chronic condition id is: -1
+[2022-02-18 00:18:35,985] [INFO] PatientTask:794 - Patient recommended catalog code is: Master_Rec chronic condition id is: -1 and program name is: CPIA
+[2022-02-18 00:18:35,985] [INFO] PatientTask:810 - Step Start Patient Evaluation Against Catalog For  Patient bearing ID: 564272 PPID: 6122299610595275414 Practice ID: 381369611 Enterprise Id: mhpn
+[2022-02-18 00:18:36,250] [INFO] PatientDAO:9070 - PSS saveConsolidatedPatientAlerts DB Batch operation time taken: 203 miliseconds for patient: 564272 batch size: 20
+[2022-02-18 00:18:36,250] [INFO] PatientTask:827 - Step Completed Update Patient Alerts For   Patient bearing ID: 564272 MRN: EntMerging505 Practice ID: 381369611 Enterprise Id: mhpn chronic condition id is: -1
+[2022-02-18 00:18:36,250] [INFO] PatientTask:794 - Patient recommended catalog code is: Readmission_Rec chronic condition id is: -1 and program name is: Readmission
+[2022-02-18 00:18:36,250] [INFO] PatientTask:810 - Step Start Patient Evaluation Against Catalog For  Patient bearing ID: 564272 PPID: 6122299610595275414 Practice ID: 381369611 Enterprise Id: mhpn
+[2022-02-18 00:18:36,312] [INFO] PatientTask:827 - Step Completed Update Patient Alerts For   Patient bearing ID: 564272 MRN: EntMerging505 Practice ID: 381369611 Enterprise Id: mhpn chronic condition id is: -1
+[2022-02-18 00:18:36,312] [INFO] PatientTask:794 - Patient recommended catalog code is: Real_time_rules_catalog chronic condition id is: -1 and program name is: CPIA
+[2022-02-18 00:18:36,312] [INFO] PatientTask:810 - Step Start Patient Evaluation Against Catalog For  Patient bearing ID: 564272 PPID: 6122299610595275414 Practice ID: 381369611 Enterprise Id: mhpn
+[2022-02-18 00:18:36,312] [INFO] PatientTask:827 - Step Completed Update Patient Alerts For   Patient bearing ID: 564272 MRN: EntMerging505 Practice ID: 381369611 Enterprise Id: mhpn chronic condition id is: -1
+[2022-02-18 00:18:36,531] [INFO] PatientTask:893 - Completed Evaluation For  Patient bearing ID: 564272 MRN: EntMerging505 Practice ID: 381369611 Enterprise Id: mhpn
+[2022-02-18 00:18:36,578] [INFO] PatientBL:74 - Thread Completion Response::Thread for Scheduler ID: 495278 is done
+[2022-02-18 00:18:36,578] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:21:00,003] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:21:00 PKT 2022
+[2022-02-18 00:21:00,003] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:21:30,051] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-18 00:21:30,051] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:24:00,001] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:24:00 PKT 2022
+[2022-02-18 00:24:00,001] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:24:30,034] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-18 00:24:30,034] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:27:00,011] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:27:00 PKT 2022
+[2022-02-18 00:27:00,027] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:27:30,062] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-18 00:27:30,062] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:30:00,003] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:30:00 PKT 2022
+[2022-02-18 00:30:00,003] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:30:30,061] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-18 00:30:30,061] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-18 00:33:00,001] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Fri Feb 18 00:33:00 PKT 2022
+[2022-02-18 00:33:00,001] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-18 00:33:30,034] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-18 00:33:30,034] [INFO] PatientBL:92 - In progress jobs finished

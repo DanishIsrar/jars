@@ -1,0 +1,3 @@
+
+cd /home/persivia/CMOnlyScheduler_Service
+java -jar cmonly-patient-scheduler-service.jar

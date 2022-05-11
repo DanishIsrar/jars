@@ -1,0 +1,27 @@
+[2022-04-12 09:06:26,218] [INFO] PatientBL:915 - Patient's Export Scheduler Started @ Tue Apr 12 09:06:26 UTC 2022
+[2022-04-12 09:06:26,300] [INFO] ClassPathXmlApplicationContext:582 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2530c12: startup date [Tue Apr 12 09:06:26 UTC 2022]; root of context hierarchy
+[2022-04-12 09:06:26,403] [INFO] XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [PatientSchedulerExportServiceApplicationContext.xml]
+[2022-04-12 09:06:27,262] [INFO] PropertySourcesPlaceholderConfigurer:172 - Loading properties file from class path resource [PatientSchedulerExportService.properties]
+[2022-04-12 09:06:27,403] [INFO] MLog:203 - MLog clients using slf4j logging.
+[2022-04-12 09:06:27,620] [INFO] C3P0Registry:203 - Initializing c3p0-0.9.5 [built 02-January-2015 13:25:04 -0500; debug? true; trace: 10]
+[2022-04-12 09:06:27,775] [INFO] StdSchedulerFactory:1172 - Using default implementation for ThreadExecutor
+[2022-04-12 09:06:27,790] [INFO] SchedulerSignalerImpl:61 - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[2022-04-12 09:06:27,790] [INFO] QuartzScheduler:240 - Quartz Scheduler v.2.2.3 created.
+[2022-04-12 09:06:27,792] [INFO] RAMJobStore:155 - RAMJobStore initialized.
+[2022-04-12 09:06:27,794] [INFO] QuartzScheduler:305 - Scheduler meta-data: Quartz Scheduler (v2.2.3) 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+[2022-04-12 09:06:27,795] [INFO] StdSchedulerFactory:1327 - Quartz scheduler 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' initialized from an externally provided properties instance.
+[2022-04-12 09:06:27,795] [INFO] StdSchedulerFactory:1331 - Quartz scheduler version: 2.2.3
+[2022-04-12 09:06:27,798] [INFO] QuartzScheduler:2311 - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@3de8f619
+[2022-04-12 09:06:27,855] [INFO] DefaultLifecycleProcessor:341 - Starting beans in phase 2147483647
+[2022-04-12 09:06:27,856] [INFO] SchedulerFactoryBean:647 - Starting Quartz Scheduler now
+[2022-04-12 09:06:27,858] [INFO] QuartzScheduler:575 - Scheduler org.springframework.scheduling.quartz.SchedulerFactoryBean#0_$_NON_CLUSTERED started.
+[2022-04-12 10:00:27,131] [INFO] PatientBL:915 - Patient's Export Scheduler Started @ Tue Apr 12 10:00:27 UTC 2022
+[2022-04-12 10:00:27,212] [INFO] ClassPathXmlApplicationContext:582 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2530c12: startup date [Tue Apr 12 10:00:27 UTC 2022]; root of context hierarchy
+[2022-04-12 10:00:27,284] [INFO] XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [PatientSchedulerExportServiceApplicationContext.xml]

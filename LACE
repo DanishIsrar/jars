@@ -1,0 +1,4 @@
+
+cd /home/persivia/CCM_LaceScore_Scheduler
+java -jar CMLaceScoreScheduler-0.0.1-SNAPSHOT.jar
+

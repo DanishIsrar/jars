@@ -1,0 +1,66 @@
+[2022-04-12 08:41:27,937] [INFO] ClassPathXmlApplicationContext:582 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4d591d15: startup date [Tue Apr 12 08:41:27 UTC 2022]; root of context hierarchy
+[2022-04-12 08:41:28,006] [INFO] XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [applicationContext.xml]
+[2022-04-12 08:41:29,879] [INFO] PropertyPlaceholderConfigurer:172 - Loading properties file from class path resource [application.properties]
+[2022-04-12 08:41:29,887] [INFO] PropertyPlaceholderConfigurer:172 - Loading properties file from class path resource [application.properties]
+[2022-04-12 08:41:30,041] [INFO] MLog:203 - MLog clients using slf4j logging.
+[2022-04-12 08:41:30,329] [INFO] C3P0Registry:203 - Initializing c3p0-0.9.5 [built 02-January-2015 13:25:04 -0500; debug? true; trace: 10]
+[2022-04-12 08:41:31,385] [INFO] EhCacheManagerFactoryBean:130 - Initializing EhCache CacheManager
+[2022-04-12 08:41:31,451] [WARN] CacheManager:772 - One or more caches require a DiskStore but there is no diskStore element configured. Using the default disk store path of /tmp. Please explicitly configure the diskStore element in ehcache.xml.
+[2022-04-12 08:41:31,503] [WARN] CacheConfiguration:1865 - Configuration problem for cache codeFindCache: MaxEntriesLocalHeap equal or greater than MaxEntriesLocalDisk. This will result in useless disk storage.
+[2022-04-12 08:41:31,515] [WARN] DiskStorePathManager:162 - diskStorePath '/tmp' is already used by an existing CacheManager either in the same VM or in a different process.
+The diskStore path for this CacheManager will be set to /tmp/ehcache_auto_created3457765141660509005diskstore.
+To avoid this warning consider using the CacheManager factory methods to create a singleton CacheManager or specifying a separate ehcache configuration (ehcache.xml) for each CacheManager instance.
+[2022-04-12 08:41:31,684] [INFO] PTFUtilServiceImpl:147 - Platform application context is initialized...
+[2022-04-12 08:41:31,698] [INFO] PatientBL:96 - Patient's Consolidation and Evaluation Scheduler Started @ Tue Apr 12 08:41:31 UTC 2022
+[2022-04-12 08:41:31,698] [INFO] ClassPathXmlApplicationContext:582 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c27d163: startup date [Tue Apr 12 08:41:31 UTC 2022]; root of context hierarchy
+[2022-04-12 08:41:31,699] [INFO] XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [cmapplicationContext.xml]
+[2022-04-12 08:41:31,866] [INFO] PropertySourcesPlaceholderConfigurer:172 - Loading properties file from class path resource [cmapplication.properties]
+[2022-04-12 08:41:31,976] [INFO] ThreadPoolTaskExecutor:165 - Initializing ExecutorService  'taskExecutor'
+[2022-04-12 08:41:32,011] [INFO] StdSchedulerFactory:1172 - Using default implementation for ThreadExecutor
+[2022-04-12 08:41:32,031] [INFO] SchedulerSignalerImpl:61 - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[2022-04-12 08:41:32,031] [INFO] QuartzScheduler:240 - Quartz Scheduler v.2.2.3 created.
+[2022-04-12 08:41:32,032] [INFO] RAMJobStore:155 - RAMJobStore initialized.
+[2022-04-12 08:41:32,033] [INFO] QuartzScheduler:305 - Scheduler meta-data: Quartz Scheduler (v2.2.3) 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+[2022-04-12 08:41:32,033] [INFO] StdSchedulerFactory:1327 - Quartz scheduler 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' initialized from an externally provided properties instance.
+[2022-04-12 08:41:32,033] [INFO] StdSchedulerFactory:1331 - Quartz scheduler version: 2.2.3
+[2022-04-12 08:41:32,035] [INFO] QuartzScheduler:2311 - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@6eaa21d8
+[2022-04-12 08:41:32,061] [INFO] DefaultLifecycleProcessor:341 - Starting beans in phase 2147483647
+[2022-04-12 08:41:32,062] [INFO] SchedulerFactoryBean:647 - Starting Quartz Scheduler now
+[2022-04-12 08:41:32,062] [INFO] QuartzScheduler:575 - Scheduler org.springframework.scheduling.quartz.SchedulerFactoryBean#0_$_NON_CLUSTERED started.
+[2022-04-12 08:41:32,064] [INFO] VariableSupport:49 - .............Only One Variable Support Instance.........................
+[2022-04-12 08:41:32,087] [INFO] AbstractPoolBackedDataSource:203 - Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 3, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, contextClassLoaderSource -> caller, dataSourceName -> 1bqq1heao810ueo1vqr4hz|748e9b20, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.microsoft.sqlserver.jdbc.SQLServerDriver, extensions -> {}, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, forceUseNamedDriverClass -> false, identityToken -> 1bqq1heao810ueo1vqr4hz|748e9b20, idleConnectionTestPeriod -> 0, initialPoolSize -> 3, jdbcUrl -> jdbc:sqlserver://10.20.30.104;DatabaseName=D1PES_DROOL, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 70, maxStatements -> 100, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, privilegeSpawnedThreads -> false, properties -> {user=******, password=******}, propertyCycle -> 0, statementCacheNumDeferredCloseThreads -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> true, unreturnedConnectionTimeout -> 0, userOverrides -> {}, usesTraditionalReflectiveProxies -> false ]
+[2022-04-12 08:41:32,510] [INFO] VariableSupport:309 - -----------Start Loading loadReAdmissionTypesLookup cache-----------------
+[2022-04-12 08:41:32,517] [INFO] AbstractPoolBackedDataSource:203 - Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 3, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, contextClassLoaderSource -> caller, dataSourceName -> 1bqq1heao810ueo1vqr4hz|76d05cc9, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.microsoft.sqlserver.jdbc.SQLServerDriver, extensions -> {}, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, forceUseNamedDriverClass -> false, identityToken -> 1bqq1heao810ueo1vqr4hz|76d05cc9, idleConnectionTestPeriod -> 0, initialPoolSize -> 3, jdbcUrl -> jdbc:sqlserver://10.20.30.102;DatabaseName=DI_BI_DW, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 70, maxStatements -> 100, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, privilegeSpawnedThreads -> false, properties -> {user=******, password=******}, propertyCycle -> 0, statementCacheNumDeferredCloseThreads -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> true, unreturnedConnectionTimeout -> 0, userOverrides -> {}, usesTraditionalReflectiveProxies -> false ]
+[2022-04-12 08:41:32,621] [INFO] VariableSupport:312 - -----------End Loading loadReAdmissionTypesLookup cache-----------------{BPCI R=2, MCare R=5, 30D R=6, CJR R=4}
+[2022-04-12 08:41:32,642] [INFO] VariableSupport:234 - -----------Start Loading recommendationCatalogAlertsLookup cache-----------------
+[2022-04-12 08:41:33,425] [INFO] GlobalComponentRegistry:228 - ISPN000128: Infinispan version: Infinispan 'Delirium' 5.2.10.Final
+[2022-04-12 08:41:33,892] [INFO] CacheJmxRegistration:85 - ISPN000031: MBeans were successfully registered to the platform MBean server.
+[2022-04-12 08:41:33,984] [INFO] VariableSupport:237 - -----------recommendationCatalogAlertsLookup cache loadded in 1342 milliseconds, for ruleCode-categoryCode size 6988 
+[2022-04-12 08:41:33,985] [INFO] VariableSupport:264 - -----------Start Loading loadAlertsSeverityLookup cache-----------------
+[2022-04-12 08:41:33,993] [INFO] VariableSupport:267 - -----------End Loading loadAlertsSeverityLookup cache-----------------
+[2022-04-12 08:41:33,993] [INFO] VariableSupport:287 - -----------Start Loading loadCareTypeIdHeaderLookup cache-----------------
+[2022-04-12 08:41:34,002] [INFO] VariableSupport:290 - -----------End Loading loadCareTypeIdHeaderLookup cache-----------------
+[2022-04-12 08:41:34,002] [INFO] VariableSupport:347 - ----------- Start Loading Cache programBlockedForEnterpriseAndPractices -----------------
+[2022-04-12 08:41:34,006] [INFO] VariableSupport:350 - ----------- End Loading Cache programBlockedForEnterpriseAndPractices -----------------
+[2022-04-12 08:41:34,006] [INFO] VariableSupport:356 - ----------- Start Loading Cache Readmission DRG Lookup -----------------
+[2022-04-12 08:41:34,014] [INFO] VariableSupport:359 - ----------- End Loading Cache Readmission DRG Lookup -----------------
+[2022-04-12 08:41:34,014] [INFO] VariableSupport:74 - -----------Start Loading MedicareInsuranceTypes cache-----------------
+[2022-04-12 08:41:34,054] [INFO] VariableSupport:77 - -----------Completed Loading MedicareInsuranceTypes cache-----------------
+[2022-04-12 08:41:34,054] [INFO] VariableSupport:65 - -----------Start Loading inpatient encounter codes cache-----------------
+[2022-04-12 08:41:34,066] [INFO] VariableSupport:68 - -----------Completed Loading inpatient encounter codes cache-----------------
+[2022-04-12 08:41:34,092] [INFO] PatientDAO:176 - Going to fetch records of patients. Is Service Start value is 1
+[2022-04-12 09:07:25,331] [INFO] ClassPathXmlApplicationContext:582 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4d591d15: startup date [Tue Apr 12 09:07:25 UTC 2022]; root of context hierarchy
+[2022-04-12 09:07:25,399] [INFO] XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [applicationContext.xml]
+[2022-04-12 09:07:27,278] [INFO] PropertyPlaceholderConfigurer:172 - Loading properties file from class path resource [application.properties]
+[2022-04-12 09:07:27,285] [INFO] PropertyPlaceholderConfigurer:172 - Loading properties file from class path resource [application.properties]
+[2022-04-12 09:07:27,406] [INFO] MLog:203 - MLog clients using slf4j logging.
+[2022-04-12 09:07:27,691] [INFO] C3P0Registry:203 - Initializing c3p0-0.9.5 [built 02-January-2015 13:25:04 -0500; debug? true; trace: 10]
+[2022-04-12 10:02:29,260] [INFO] ClassPathXmlApplicationContext:582 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4d591d15: startup date [Tue Apr 12 10:02:29 UTC 2022]; root of context hierarchy
+[2022-04-12 10:02:29,328] [INFO] XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [applicationContext.xml]

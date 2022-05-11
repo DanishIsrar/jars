@@ -1,0 +1,670 @@
+[2022-02-06 00:00:00,028] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 00:00:00 PKT 2022
+[2022-02-06 00:00:00,028] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 00:00:00,028] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 00:00:00,043] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 00:00:00,043] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 00:05:00,002] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 00:05:00 PKT 2022
+[2022-02-06 00:05:00,002] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 00:05:00,002] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 00:05:00,002] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 00:05:00,002] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 00:10:00,013] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 00:10:00 PKT 2022
+[2022-02-06 00:10:00,013] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 00:10:00,013] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 00:10:00,013] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 00:10:00,013] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 00:15:00,006] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 00:15:00 PKT 2022
+[2022-02-06 00:15:00,006] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 00:15:00,006] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 00:15:00,006] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 00:15:00,006] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 00:20:00,022] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 00:20:00 PKT 2022
+[2022-02-06 00:20:00,022] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 00:20:00,022] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 00:20:00,022] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 00:20:00,022] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 00:25:00,005] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 00:25:00 PKT 2022
+[2022-02-06 00:25:00,005] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 00:25:00,005] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 00:25:00,021] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 00:25:00,021] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 00:30:00,007] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 00:30:00 PKT 2022
+[2022-02-06 00:30:00,007] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 00:30:00,007] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 00:30:00,007] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 00:30:00,007] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 00:35:00,009] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 00:35:00 PKT 2022
+[2022-02-06 00:35:00,009] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 00:35:00,009] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 00:35:00,009] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 00:35:00,025] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 00:40:00,015] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 00:40:00 PKT 2022
+[2022-02-06 00:40:00,015] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 00:40:00,015] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 00:40:00,015] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 00:40:00,015] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 00:45:00,004] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 00:45:00 PKT 2022
+[2022-02-06 00:45:00,004] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 00:45:00,004] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 00:45:00,035] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 00:45:00,035] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 00:50:00,008] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 00:50:00 PKT 2022
+[2022-02-06 00:50:00,008] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 00:50:00,008] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 00:50:00,024] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 00:50:00,024] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 00:55:00,005] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 00:55:00 PKT 2022
+[2022-02-06 00:55:00,005] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 00:55:00,005] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 00:55:00,005] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 00:55:00,005] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 01:00:00,003] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 01:00:00 PKT 2022
+[2022-02-06 01:00:00,003] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 01:00:00,003] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 01:00:00,018] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 01:00:00,018] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 01:05:00,014] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 01:05:00 PKT 2022
+[2022-02-06 01:05:00,014] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 01:05:00,014] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 01:05:00,014] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 01:05:00,014] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 01:10:00,014] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 01:10:00 PKT 2022
+[2022-02-06 01:10:00,014] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 01:10:00,014] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 01:10:00,014] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 01:10:00,014] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 01:15:00,011] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 01:15:00 PKT 2022
+[2022-02-06 01:15:00,011] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 01:15:00,011] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 01:15:00,011] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 01:15:00,011] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 01:20:00,013] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 01:20:00 PKT 2022
+[2022-02-06 01:20:00,013] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 01:20:00,013] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 01:20:00,013] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 01:20:00,013] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 01:25:00,004] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 01:25:00 PKT 2022
+[2022-02-06 01:25:00,004] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 01:25:00,004] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 01:25:00,004] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 01:25:00,004] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 01:30:00,039] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 01:30:00 PKT 2022
+[2022-02-06 01:30:00,039] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 01:30:00,039] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 01:30:00,039] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 01:30:00,039] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 01:35:00,002] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 01:35:00 PKT 2022
+[2022-02-06 01:35:00,002] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 01:35:00,002] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 01:35:00,002] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 01:35:00,002] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 01:40:00,008] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 01:40:00 PKT 2022
+[2022-02-06 01:40:00,008] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 01:40:00,008] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 01:40:00,024] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 01:40:00,024] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 01:45:00,008] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 01:45:00 PKT 2022
+[2022-02-06 01:45:00,008] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 01:45:00,008] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 01:45:00,024] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 01:45:00,024] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 01:50:00,023] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 01:50:00 PKT 2022
+[2022-02-06 01:50:00,023] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 01:50:00,023] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 01:50:00,023] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 01:50:00,023] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 01:55:00,005] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 01:55:00 PKT 2022
+[2022-02-06 01:55:00,005] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 01:55:00,005] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 01:55:00,005] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 01:55:00,005] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 02:00:00,007] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 02:00:00 PKT 2022
+[2022-02-06 02:00:00,007] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 02:00:00,007] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 02:00:00,023] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 02:00:00,023] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 02:05:00,012] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 02:05:00 PKT 2022
+[2022-02-06 02:05:00,012] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 02:05:00,012] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 02:05:00,012] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 02:05:00,012] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 02:10:00,002] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 02:10:00 PKT 2022
+[2022-02-06 02:10:00,002] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 02:10:00,002] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 02:10:00,002] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 02:10:00,002] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 02:15:00,011] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 02:15:00 PKT 2022
+[2022-02-06 02:15:00,011] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 02:15:00,011] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 02:15:00,011] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 02:15:00,011] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 02:20:00,008] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 02:20:00 PKT 2022
+[2022-02-06 02:20:00,008] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 02:20:00,008] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 02:20:00,024] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 02:20:00,024] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 02:25:00,002] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 02:25:00 PKT 2022
+[2022-02-06 02:25:00,002] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 02:25:00,002] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 02:25:00,002] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 02:25:00,002] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 02:30:00,004] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 02:30:00 PKT 2022
+[2022-02-06 02:30:00,004] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 02:30:00,004] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 02:30:00,019] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 02:30:00,019] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 02:35:00,004] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 02:35:00 PKT 2022
+[2022-02-06 02:35:00,004] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 02:35:00,004] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 02:35:00,035] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 02:35:00,035] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 02:40:00,010] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 02:40:00 PKT 2022
+[2022-02-06 02:40:00,010] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 02:40:00,010] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 02:40:00,010] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 02:40:00,010] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 02:45:00,008] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 02:45:00 PKT 2022
+[2022-02-06 02:45:00,008] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 02:45:00,008] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 02:45:00,023] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 02:45:00,023] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 02:50:00,015] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 02:50:00 PKT 2022
+[2022-02-06 02:50:00,015] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 02:50:00,015] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 02:50:00,015] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 02:50:00,015] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 02:55:00,009] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 02:55:00 PKT 2022
+[2022-02-06 02:55:00,009] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 02:55:00,009] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 02:55:00,009] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 02:55:00,009] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 03:00:00,012] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 03:00:00 PKT 2022
+[2022-02-06 03:00:00,012] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 03:00:00,012] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 03:00:00,044] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 03:00:00,044] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 03:05:00,002] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 03:05:00 PKT 2022
+[2022-02-06 03:05:00,017] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 03:05:00,017] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 03:05:00,017] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 03:05:00,017] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 03:10:00,008] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 03:10:00 PKT 2022
+[2022-02-06 03:10:00,008] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 03:10:00,008] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 03:10:00,008] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 03:10:00,008] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 03:15:00,011] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 03:15:00 PKT 2022
+[2022-02-06 03:15:00,011] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 03:15:00,011] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 03:15:00,011] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 03:15:00,011] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 03:20:00,002] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 03:20:00 PKT 2022
+[2022-02-06 03:20:00,002] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 03:20:00,002] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 03:20:00,002] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 03:20:00,002] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 03:25:00,004] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 03:25:00 PKT 2022
+[2022-02-06 03:25:00,004] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 03:25:00,004] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 03:25:00,004] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 03:25:00,004] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 03:30:00,015] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 03:30:00 PKT 2022
+[2022-02-06 03:30:00,015] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 03:30:00,015] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 03:30:00,015] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 03:30:00,015] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 03:35:00,023] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 03:35:00 PKT 2022
+[2022-02-06 03:35:00,023] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 03:35:00,023] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 03:35:00,023] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 03:35:00,023] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 03:40:00,003] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 03:40:00 PKT 2022
+[2022-02-06 03:40:00,003] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 03:40:00,003] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 03:40:00,003] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 03:40:00,003] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 03:45:00,003] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 03:45:00 PKT 2022
+[2022-02-06 03:45:00,003] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 03:45:00,003] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 03:45:00,018] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 03:45:00,018] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 03:50:00,014] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 03:50:00 PKT 2022
+[2022-02-06 03:50:00,014] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 03:50:00,014] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 03:50:00,014] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 03:50:00,014] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 03:55:00,036] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 03:55:00 PKT 2022
+[2022-02-06 03:55:00,036] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 03:55:00,036] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 03:55:00,036] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 03:55:00,036] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 04:00:00,001] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 04:00:00 PKT 2022
+[2022-02-06 04:00:00,001] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 04:00:00,001] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 04:00:00,017] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 04:00:00,017] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 04:05:00,008] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 04:05:00 PKT 2022
+[2022-02-06 04:05:00,008] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 04:05:00,008] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 04:05:00,008] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 04:05:00,008] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 04:10:00,015] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 04:10:00 PKT 2022
+[2022-02-06 04:10:00,015] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 04:10:00,015] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 04:10:00,030] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 04:10:00,030] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 04:15:00,014] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 04:15:00 PKT 2022
+[2022-02-06 04:15:00,014] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 04:15:00,014] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 04:15:00,030] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 04:15:00,030] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 04:20:00,007] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 04:20:00 PKT 2022
+[2022-02-06 04:20:00,007] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 04:20:00,007] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 04:20:00,023] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 04:20:00,023] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 04:25:00,012] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 04:25:00 PKT 2022
+[2022-02-06 04:25:00,012] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 04:25:00,012] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 04:25:00,012] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 04:25:00,012] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 04:30:00,009] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 04:30:00 PKT 2022
+[2022-02-06 04:30:00,009] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 04:30:00,009] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 04:30:00,040] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 04:30:00,040] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 04:35:00,003] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 04:35:00 PKT 2022
+[2022-02-06 04:35:00,003] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 04:35:00,003] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 04:35:00,003] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 04:35:00,003] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 04:40:00,011] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 04:40:00 PKT 2022
+[2022-02-06 04:40:00,011] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 04:40:00,011] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 04:40:00,011] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 04:40:00,011] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 04:45:00,008] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 04:45:00 PKT 2022
+[2022-02-06 04:45:00,008] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 04:45:00,008] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 04:45:00,039] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 04:45:00,039] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 04:50:00,004] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 04:50:00 PKT 2022
+[2022-02-06 04:50:00,004] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 04:50:00,004] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 04:50:00,004] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 04:50:00,004] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 04:55:00,008] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 04:55:00 PKT 2022
+[2022-02-06 04:55:00,008] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 04:55:00,008] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 04:55:00,023] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 04:55:00,023] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 05:00:00,013] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 05:00:00 PKT 2022
+[2022-02-06 05:00:00,013] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 05:00:00,013] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 05:00:00,013] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 05:00:00,013] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 05:05:00,007] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 05:05:00 PKT 2022
+[2022-02-06 05:05:00,007] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 05:05:00,007] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 05:05:00,007] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 05:05:00,023] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 05:10:00,014] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 05:10:00 PKT 2022
+[2022-02-06 05:10:00,014] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 05:10:00,014] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 05:10:00,014] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 05:10:00,014] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 05:15:00,004] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 05:15:00 PKT 2022
+[2022-02-06 05:15:00,004] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 05:15:00,004] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 05:15:00,004] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 05:15:00,004] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 05:20:00,007] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 05:20:00 PKT 2022
+[2022-02-06 05:20:00,007] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 05:20:00,007] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 05:20:00,007] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 05:20:00,023] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 05:25:00,015] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 05:25:00 PKT 2022
+[2022-02-06 05:25:00,015] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 05:25:00,015] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 05:25:00,015] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 05:25:00,015] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 05:30:00,005] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 05:30:00 PKT 2022
+[2022-02-06 05:30:00,005] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 05:30:00,005] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 05:30:00,020] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 05:30:00,020] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 05:35:00,007] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 05:35:00 PKT 2022
+[2022-02-06 05:35:00,007] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 05:35:00,007] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 05:35:00,023] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 05:35:00,023] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 05:40:00,001] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 05:40:00 PKT 2022
+[2022-02-06 05:40:00,001] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 05:40:00,001] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 05:40:00,001] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 05:40:00,001] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 05:45:00,009] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 05:45:00 PKT 2022
+[2022-02-06 05:45:00,009] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 05:45:00,009] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 05:45:00,025] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 05:45:00,025] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 05:50:00,012] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 05:50:00 PKT 2022
+[2022-02-06 05:50:00,012] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 05:50:00,012] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 05:50:00,012] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 05:50:00,012] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 05:55:00,012] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 05:55:00 PKT 2022
+[2022-02-06 05:55:00,012] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 05:55:00,012] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 05:55:00,028] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 05:55:00,028] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 06:00:00,019] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 06:00:00 PKT 2022
+[2022-02-06 06:00:00,019] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 06:00:00,019] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 06:00:00,035] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 06:00:00,035] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 06:05:00,031] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 06:05:00 PKT 2022
+[2022-02-06 06:05:00,031] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 06:05:00,031] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 06:05:00,031] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 06:05:00,031] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 06:10:00,001] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 06:10:00 PKT 2022
+[2022-02-06 06:10:00,001] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 06:10:00,001] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 06:10:00,001] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 06:10:00,001] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 06:15:00,003] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 06:15:00 PKT 2022
+[2022-02-06 06:15:00,004] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 06:15:00,004] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 06:15:00,044] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 06:15:00,044] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 06:20:00,002] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 06:20:00 PKT 2022
+[2022-02-06 06:20:00,002] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 06:20:00,002] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 06:20:00,002] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 06:20:00,002] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 06:25:00,002] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 06:25:00 PKT 2022
+[2022-02-06 06:25:00,002] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 06:25:00,002] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 06:25:00,002] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 06:25:00,002] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 06:30:00,005] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 06:30:00 PKT 2022
+[2022-02-06 06:30:00,005] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 06:30:00,005] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 06:30:00,021] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 06:30:00,021] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 06:35:00,012] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 06:35:00 PKT 2022
+[2022-02-06 06:35:00,012] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 06:35:00,012] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 06:35:00,012] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 06:35:00,012] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 06:40:00,020] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 06:40:00 PKT 2022
+[2022-02-06 06:40:00,020] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 06:40:00,020] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 06:40:00,020] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 06:40:00,020] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 06:45:00,003] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 06:45:00 PKT 2022
+[2022-02-06 06:45:00,003] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 06:45:00,003] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 06:45:00,019] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 06:45:00,019] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 06:50:00,006] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 06:50:00 PKT 2022
+[2022-02-06 06:50:00,006] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 06:50:00,006] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 06:50:00,006] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 06:50:00,006] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 06:55:00,002] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 06:55:00 PKT 2022
+[2022-02-06 06:55:00,002] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 06:55:00,002] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 06:55:00,018] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 06:55:00,018] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 07:00:00,025] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 07:00:00 PKT 2022
+[2022-02-06 07:00:00,025] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 07:00:00,025] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 07:00:00,041] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 07:00:00,041] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 07:05:00,002] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 07:05:00 PKT 2022
+[2022-02-06 07:05:00,002] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 07:05:00,002] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 07:05:00,002] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 07:05:00,002] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 07:10:00,001] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 07:10:00 PKT 2022
+[2022-02-06 07:10:00,001] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 07:10:00,001] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 07:10:00,032] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 07:10:00,032] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 07:15:00,006] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 07:15:00 PKT 2022
+[2022-02-06 07:15:00,006] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 07:15:00,006] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 07:15:00,022] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 07:15:00,022] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 07:20:00,000] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 07:20:00 PKT 2022
+[2022-02-06 07:20:00,000] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 07:20:00,000] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 07:20:00,016] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 07:20:00,016] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 07:25:00,002] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 07:25:00 PKT 2022
+[2022-02-06 07:25:00,002] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 07:25:00,002] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 07:25:00,017] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 07:25:00,017] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 07:30:00,015] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 07:30:00 PKT 2022
+[2022-02-06 07:30:00,015] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 07:30:00,015] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 07:30:00,031] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 07:30:00,031] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 07:35:00,010] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 07:35:00 PKT 2022
+[2022-02-06 07:35:00,010] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 07:35:00,010] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 07:35:00,010] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 07:35:00,010] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 07:40:00,004] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 07:40:00 PKT 2022
+[2022-02-06 07:40:00,004] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 07:40:00,004] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 07:40:00,020] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 07:40:00,020] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 07:45:00,010] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 07:45:00 PKT 2022
+[2022-02-06 07:45:00,010] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 07:45:00,010] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 07:45:00,026] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 07:45:00,026] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 07:50:00,009] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 07:50:00 PKT 2022
+[2022-02-06 07:50:00,009] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 07:50:00,009] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 07:50:00,009] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 07:50:00,009] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 07:55:00,006] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 07:55:00 PKT 2022
+[2022-02-06 07:55:00,006] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 07:55:00,006] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 07:55:00,006] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 07:55:00,006] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 08:00:00,003] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 08:00:00 PKT 2022
+[2022-02-06 08:00:00,003] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 08:00:00,003] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 08:00:00,034] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 08:00:00,034] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 08:05:00,007] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 08:05:00 PKT 2022
+[2022-02-06 08:05:00,007] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 08:05:00,007] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 08:05:00,023] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 08:05:00,023] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 08:10:00,015] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 08:10:00 PKT 2022
+[2022-02-06 08:10:00,015] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 08:10:00,015] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 08:10:00,015] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 08:10:00,015] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 08:15:00,011] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 08:15:00 PKT 2022
+[2022-02-06 08:15:00,011] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 08:15:00,011] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 08:15:00,027] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 08:15:00,027] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 08:20:00,017] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 08:20:00 PKT 2022
+[2022-02-06 08:20:00,017] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 08:20:00,017] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 08:20:00,017] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 08:20:00,017] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 08:25:00,011] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 08:25:00 PKT 2022
+[2022-02-06 08:25:00,011] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 08:25:00,011] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 08:25:00,011] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 08:25:00,011] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 08:30:00,012] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 08:30:00 PKT 2022
+[2022-02-06 08:30:00,012] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 08:30:00,012] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 08:30:00,027] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 08:30:00,027] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 08:35:00,013] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 08:35:00 PKT 2022
+[2022-02-06 08:35:00,013] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 08:35:00,013] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 08:35:00,013] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 08:35:00,013] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 08:40:00,011] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 08:40:00 PKT 2022
+[2022-02-06 08:40:00,011] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 08:40:00,011] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 08:40:00,011] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 08:40:00,011] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 08:45:00,006] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 08:45:00 PKT 2022
+[2022-02-06 08:45:00,006] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 08:45:00,006] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 08:45:00,006] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 08:45:00,006] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 08:50:00,014] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 08:50:00 PKT 2022
+[2022-02-06 08:50:00,014] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 08:50:00,014] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 08:50:00,014] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 08:50:00,014] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 08:55:00,011] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 08:55:00 PKT 2022
+[2022-02-06 08:55:00,011] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 08:55:00,011] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 08:55:00,026] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 08:55:00,026] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 09:00:00,008] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 09:00:00 PKT 2022
+[2022-02-06 09:00:00,023] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 09:00:00,023] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 09:00:00,054] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 09:00:00,054] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 09:05:00,014] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 09:05:00 PKT 2022
+[2022-02-06 09:05:00,014] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 09:05:00,014] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 09:05:00,014] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 09:05:00,014] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 09:10:00,035] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 09:10:00 PKT 2022
+[2022-02-06 09:10:00,035] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 09:10:00,035] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 09:10:00,035] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 09:10:00,035] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 09:15:00,003] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 09:15:00 PKT 2022
+[2022-02-06 09:15:00,003] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 09:15:00,003] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 09:15:00,003] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 09:15:00,019] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 09:20:00,004] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 09:20:00 PKT 2022
+[2022-02-06 09:20:00,004] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 09:20:00,004] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 09:20:00,019] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 09:20:00,019] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 09:25:00,015] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 09:25:00 PKT 2022
+[2022-02-06 09:25:00,015] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 09:25:00,015] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 09:25:00,015] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 09:25:00,015] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 09:30:00,003] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 09:30:00 PKT 2022
+[2022-02-06 09:30:00,003] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 09:30:00,003] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 09:30:00,018] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 09:30:00,018] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 09:35:00,001] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 09:35:00 PKT 2022
+[2022-02-06 09:35:00,001] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 09:35:00,001] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 09:35:00,017] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 09:35:00,017] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 09:40:00,009] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 09:40:00 PKT 2022
+[2022-02-06 09:40:00,009] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 09:40:00,009] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 09:40:00,009] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 09:40:00,009] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 09:45:00,006] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 09:45:00 PKT 2022
+[2022-02-06 09:45:00,006] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 09:45:00,006] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 09:45:00,006] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 09:45:00,006] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 09:50:00,002] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 09:50:00 PKT 2022
+[2022-02-06 09:50:00,002] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 09:50:00,002] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 09:50:00,002] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 09:50:00,002] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 09:55:00,031] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 09:55:00 PKT 2022
+[2022-02-06 09:55:00,031] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 09:55:00,031] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 09:55:00,031] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 09:55:00,031] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 10:00:00,000] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 10:00:00 PKT 2022
+[2022-02-06 10:00:00,002] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 10:00:00,002] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 10:00:00,008] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 10:00:00,008] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 10:05:00,008] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 10:05:00 PKT 2022
+[2022-02-06 10:05:00,008] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 10:05:00,008] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 10:05:00,008] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 10:05:00,008] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 10:10:00,011] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 10:10:00 PKT 2022
+[2022-02-06 10:10:00,011] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 10:10:00,011] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 10:10:00,011] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 10:10:00,011] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 10:15:00,010] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 10:15:00 PKT 2022
+[2022-02-06 10:15:00,010] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 10:15:00,010] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 10:15:00,041] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 10:15:00,041] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 10:20:00,007] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 10:20:00 PKT 2022
+[2022-02-06 10:20:00,007] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 10:20:00,007] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 10:20:00,023] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 10:20:00,023] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 10:25:00,012] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 10:25:00 PKT 2022
+[2022-02-06 10:25:00,012] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 10:25:00,012] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 10:25:00,027] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 10:25:00,027] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 10:30:00,002] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 10:30:00 PKT 2022
+[2022-02-06 10:30:00,002] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 10:30:00,002] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 10:30:00,018] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 10:30:00,018] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 10:35:00,007] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 10:35:00 PKT 2022
+[2022-02-06 10:35:00,007] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 10:35:00,007] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 10:35:00,007] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 10:35:00,007] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 10:40:00,011] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 10:40:00 PKT 2022
+[2022-02-06 10:40:00,011] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 10:40:00,011] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 10:40:00,011] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 10:40:00,011] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 10:45:00,009] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 10:45:00 PKT 2022
+[2022-02-06 10:45:00,009] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 10:45:00,009] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 10:45:00,009] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 10:45:00,009] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 10:50:00,015] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 10:50:00 PKT 2022
+[2022-02-06 10:50:00,015] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 10:50:00,015] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 10:50:00,031] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 10:50:00,031] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 10:55:00,004] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 10:55:00 PKT 2022
+[2022-02-06 10:55:00,004] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 10:55:00,004] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 10:55:00,020] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 10:55:00,020] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 11:00:00,006] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 11:00:00 PKT 2022
+[2022-02-06 11:00:00,006] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 11:00:00,006] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 11:00:00,022] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 11:00:00,022] [INFO] PatientBL:154 - ############################### END ###############################
+[2022-02-06 11:05:00,015] [INFO] ConsolidateAndEvaluatePatientScheduler:24 - Job started @ Sun Feb 06 11:05:00 PKT 2022
+[2022-02-06 11:05:00,015] [INFO] PatientBL:108 - ############################### START ###############################
+[2022-02-06 11:05:00,015] [INFO] PatientBL:110 - Getting upcoming and belated schedules
+[2022-02-06 11:05:00,015] [INFO] PatientBL:112 - Number of schedules found == 0
+[2022-02-06 11:05:00,015] [INFO] PatientBL:154 - ############################### END ###############################

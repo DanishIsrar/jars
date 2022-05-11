@@ -1,0 +1,2 @@
+cd /home/persivia/CM_BPCI_SERVICE
+java -jar cm-bpci-service.jar

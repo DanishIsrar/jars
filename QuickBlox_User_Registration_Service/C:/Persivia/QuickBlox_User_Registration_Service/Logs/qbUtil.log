@@ -1,0 +1,392 @@
+12-04-2022 08:29:39 INFO  UserRegistration:95 - Quick Blox User Registration Scheduler Started @ Tue Apr 12 08:29:39 UTC 2022
+12-04-2022 08:29:39 INFO  ClassPathXmlApplicationContext:582 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@deb6432: startup date [Tue Apr 12 08:29:39 UTC 2022]; root of context hierarchy
+12-04-2022 08:29:39 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [applicationContext.xml]
+12-04-2022 08:29:40 INFO  PropertySourcesPlaceholderConfigurer:172 - Loading properties file from class path resource [application.properties]
+12-04-2022 08:29:40 INFO  MLog:203 - MLog clients using slf4j logging.
+12-04-2022 08:29:40 INFO  C3P0Registry:203 - Initializing c3p0-0.9.5 [built 02-January-2015 13:25:04 -0500; debug? true; trace: 10]
+12-04-2022 08:29:40 INFO  AbstractPoolBackedDataSource:203 - Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 3, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, contextClassLoaderSource -> caller, dataSourceName -> 1bqq1heao80lmqa1p1nx39|2357d90a, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.microsoft.sqlserver.jdbc.SQLServerDriver, extensions -> {}, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, forceUseNamedDriverClass -> false, identityToken -> 1bqq1heao80lmqa1p1nx39|2357d90a, idleConnectionTestPeriod -> 0, initialPoolSize -> 3, jdbcUrl -> jdbc:sqlserver://10.20.30.102;DatabaseName=PORTALDB, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 70, maxStatements -> 100, maxStatementsPerConnection -> 0, minPoolSize -> 10, numHelperThreads -> 3, preferredTestQuery -> null, privilegeSpawnedThreads -> false, properties -> {user=******, password=******}, propertyCycle -> 0, statementCacheNumDeferredCloseThreads -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> true, unreturnedConnectionTimeout -> 0, userOverrides -> {}, usesTraditionalReflectiveProxies -> false ]
+12-04-2022 08:29:40 WARN  BasicResourcePool:211 - Bad pool size config, start 3 < min 10. Using 10 as start.
+12-04-2022 08:29:46 INFO  UserDAO:49 - quickbloxUserId: 134370944 , quickbloxUserLogin: Persivia_29328_1649752186
+12-04-2022 08:29:46 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:29:47 INFO  UserDAO:49 - quickbloxUserId: 134370945 , quickbloxUserLogin: Persivia_29368_1649752187
+12-04-2022 08:29:47 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:29:47 INFO  UserDAO:49 - quickbloxUserId: 134370946 , quickbloxUserLogin: Persivia_30529_1649752187
+12-04-2022 08:29:47 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:29:48 INFO  UserDAO:49 - quickbloxUserId: 134370947 , quickbloxUserLogin: Persivia_32604_1649752187
+12-04-2022 08:29:48 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:29:48 INFO  UserDAO:49 - quickbloxUserId: 134370948 , quickbloxUserLogin: Persivia_32606_1649752188
+12-04-2022 08:29:48 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:29:48 INFO  UserDAO:49 - quickbloxUserId: 134370949 , quickbloxUserLogin: Persivia_32607_1649752188
+12-04-2022 08:29:48 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:29:49 INFO  UserDAO:49 - quickbloxUserId: 134370950 , quickbloxUserLogin: Persivia_32608_1649752188
+12-04-2022 08:29:49 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:29:49 INFO  UserDAO:49 - quickbloxUserId: 134370951 , quickbloxUserLogin: Persivia_32609_1649752189
+12-04-2022 08:29:49 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:29:49 INFO  UserDAO:49 - quickbloxUserId: 134370952 , quickbloxUserLogin: Persivia_32610_1649752189
+12-04-2022 08:29:49 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:29:50 INFO  UserDAO:49 - quickbloxUserId: 134370953 , quickbloxUserLogin: Persivia_32611_1649752189
+12-04-2022 08:29:50 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:29:50 INFO  UserDAO:49 - quickbloxUserId: 134370954 , quickbloxUserLogin: Persivia_32612_1649752190
+12-04-2022 08:29:50 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:29:50 INFO  UserDAO:49 - quickbloxUserId: 134370955 , quickbloxUserLogin: Persivia_32613_1649752190
+12-04-2022 08:29:51 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:29:51 INFO  UserDAO:49 - quickbloxUserId: 134370956 , quickbloxUserLogin: Persivia_32614_1649752191
+12-04-2022 08:29:51 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:29:51 INFO  UserDAO:49 - quickbloxUserId: 134370958 , quickbloxUserLogin: Persivia_32615_1649752191
+12-04-2022 08:29:51 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:29:52 INFO  UserDAO:49 - quickbloxUserId: 134370959 , quickbloxUserLogin: Persivia_32616_1649752191
+12-04-2022 08:29:52 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:29:52 INFO  UserDAO:49 - quickbloxUserId: 134370960 , quickbloxUserLogin: Persivia_32617_1649752192
+12-04-2022 08:29:52 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:29:52 INFO  UserDAO:49 - quickbloxUserId: 134370961 , quickbloxUserLogin: Persivia_32618_1649752192
+12-04-2022 08:29:52 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:29:53 INFO  UserDAO:49 - quickbloxUserId: 134370962 , quickbloxUserLogin: Persivia_32619_1649752192
+12-04-2022 08:29:53 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:29:53 INFO  UserDAO:49 - quickbloxUserId: 134370963 , quickbloxUserLogin: Persivia_32620_1649752193
+12-04-2022 08:29:53 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:29:54 INFO  UserDAO:49 - quickbloxUserId: 134370964 , quickbloxUserLogin: Persivia_32621_1649752193
+12-04-2022 08:29:54 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:29:54 INFO  UserDAO:49 - quickbloxUserId: 134370965 , quickbloxUserLogin: Persivia_32622_1649752194
+12-04-2022 08:29:54 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:29:54 INFO  UserDAO:49 - quickbloxUserId: 134370966 , quickbloxUserLogin: Persivia_32623_1649752194
+12-04-2022 08:29:54 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:29:55 INFO  UserDAO:49 - quickbloxUserId: 134370967 , quickbloxUserLogin: Persivia_32624_1649752194
+12-04-2022 08:29:55 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:29:55 INFO  UserDAO:49 - quickbloxUserId: 134370968 , quickbloxUserLogin: Persivia_32625_1649752195
+12-04-2022 08:29:55 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:29:55 INFO  UserDAO:49 - quickbloxUserId: 134370970 , quickbloxUserLogin: Persivia_32626_1649752195
+12-04-2022 08:29:55 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:29:56 INFO  UserDAO:49 - quickbloxUserId: 134370971 , quickbloxUserLogin: Persivia_32627_1649752195
+12-04-2022 08:29:56 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:29:56 INFO  UserDAO:49 - quickbloxUserId: 134370972 , quickbloxUserLogin: Persivia_32628_1649752196
+12-04-2022 08:29:56 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:29:57 INFO  UserDAO:49 - quickbloxUserId: 134370973 , quickbloxUserLogin: Persivia_32629_1649752196
+12-04-2022 08:29:57 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:29:57 INFO  UserDAO:49 - quickbloxUserId: 134370974 , quickbloxUserLogin: Persivia_32630_1649752197
+12-04-2022 08:29:57 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:29:57 INFO  UserDAO:49 - quickbloxUserId: 134370975 , quickbloxUserLogin: Persivia_32631_1649752197
+12-04-2022 08:29:57 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:29:58 INFO  UserDAO:49 - quickbloxUserId: 134370976 , quickbloxUserLogin: Persivia_32632_1649752197
+12-04-2022 08:29:58 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:29:58 INFO  UserDAO:49 - quickbloxUserId: 134370977 , quickbloxUserLogin: Persivia_32633_1649752198
+12-04-2022 08:29:58 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:29:59 INFO  UserDAO:49 - quickbloxUserId: 134370978 , quickbloxUserLogin: Persivia_32634_1649752198
+12-04-2022 08:29:59 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:29:59 INFO  UserDAO:49 - quickbloxUserId: 134370979 , quickbloxUserLogin: Persivia_32635_1649752199
+12-04-2022 08:29:59 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:29:59 INFO  UserDAO:49 - quickbloxUserId: 134370980 , quickbloxUserLogin: Persivia_32636_1649752199
+12-04-2022 08:29:59 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:00 INFO  UserDAO:49 - quickbloxUserId: 134370981 , quickbloxUserLogin: Persivia_32637_1649752199
+12-04-2022 08:30:00 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:00 INFO  UserDAO:49 - quickbloxUserId: 134370982 , quickbloxUserLogin: Persivia_32638_1649752200
+12-04-2022 08:30:00 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:00 INFO  UserDAO:49 - quickbloxUserId: 134370983 , quickbloxUserLogin: Persivia_32639_1649752200
+12-04-2022 08:30:00 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:01 INFO  UserDAO:49 - quickbloxUserId: 134370984 , quickbloxUserLogin: Persivia_32640_1649752200
+12-04-2022 08:30:01 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:01 INFO  UserDAO:49 - quickbloxUserId: 134370985 , quickbloxUserLogin: Persivia_32641_1649752201
+12-04-2022 08:30:01 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:01 INFO  UserDAO:49 - quickbloxUserId: 134370986 , quickbloxUserLogin: Persivia_32642_1649752201
+12-04-2022 08:30:01 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:02 INFO  UserDAO:49 - quickbloxUserId: 134370987 , quickbloxUserLogin: Persivia_32643_1649752201
+12-04-2022 08:30:02 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:02 INFO  UserDAO:49 - quickbloxUserId: 134370988 , quickbloxUserLogin: Persivia_32644_1649752202
+12-04-2022 08:30:02 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:03 INFO  UserDAO:49 - quickbloxUserId: 134370989 , quickbloxUserLogin: Persivia_32645_1649752202
+12-04-2022 08:30:03 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:03 INFO  UserDAO:49 - quickbloxUserId: 134370990 , quickbloxUserLogin: Persivia_32646_1649752203
+12-04-2022 08:30:03 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:03 INFO  UserDAO:49 - quickbloxUserId: 134370991 , quickbloxUserLogin: Persivia_32647_1649752203
+12-04-2022 08:30:03 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:04 INFO  UserDAO:49 - quickbloxUserId: 134370992 , quickbloxUserLogin: Persivia_32648_1649752203
+12-04-2022 08:30:04 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:04 INFO  UserDAO:49 - quickbloxUserId: 134370993 , quickbloxUserLogin: Persivia_32649_1649752204
+12-04-2022 08:30:04 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:04 INFO  UserDAO:49 - quickbloxUserId: 134370994 , quickbloxUserLogin: Persivia_32650_1649752204
+12-04-2022 08:30:04 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:05 INFO  UserDAO:49 - quickbloxUserId: 134370995 , quickbloxUserLogin: Persivia_32651_1649752204
+12-04-2022 08:30:05 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:05 INFO  UserDAO:49 - quickbloxUserId: 134370996 , quickbloxUserLogin: Persivia_32652_1649752205
+12-04-2022 08:30:05 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:06 INFO  UserDAO:49 - quickbloxUserId: 134370997 , quickbloxUserLogin: Persivia_32653_1649752205
+12-04-2022 08:30:06 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:06 INFO  UserDAO:49 - quickbloxUserId: 134370998 , quickbloxUserLogin: Persivia_32654_1649752206
+12-04-2022 08:30:06 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:06 INFO  UserDAO:49 - quickbloxUserId: 134371000 , quickbloxUserLogin: Persivia_32655_1649752206
+12-04-2022 08:30:06 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:07 INFO  UserDAO:49 - quickbloxUserId: 134371001 , quickbloxUserLogin: Persivia_32656_1649752206
+12-04-2022 08:30:07 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:07 INFO  UserDAO:49 - quickbloxUserId: 134371002 , quickbloxUserLogin: Persivia_32657_1649752207
+12-04-2022 08:30:07 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:08 INFO  UserDAO:49 - quickbloxUserId: 134371003 , quickbloxUserLogin: Persivia_32658_1649752207
+12-04-2022 08:30:08 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:08 INFO  UserDAO:49 - quickbloxUserId: 134371004 , quickbloxUserLogin: Persivia_32659_1649752208
+12-04-2022 08:30:08 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:08 INFO  UserDAO:49 - quickbloxUserId: 134371005 , quickbloxUserLogin: Persivia_32660_1649752208
+12-04-2022 08:30:08 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:09 INFO  UserDAO:49 - quickbloxUserId: 134371006 , quickbloxUserLogin: Persivia_32661_1649752208
+12-04-2022 08:30:09 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:09 INFO  UserDAO:49 - quickbloxUserId: 134371007 , quickbloxUserLogin: Persivia_32662_1649752209
+12-04-2022 08:30:09 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:09 INFO  UserDAO:49 - quickbloxUserId: 134371008 , quickbloxUserLogin: Persivia_32663_1649752209
+12-04-2022 08:30:10 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:10 INFO  UserDAO:49 - quickbloxUserId: 134371009 , quickbloxUserLogin: Persivia_32664_1649752210
+12-04-2022 08:30:10 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:10 INFO  UserDAO:49 - quickbloxUserId: 134371010 , quickbloxUserLogin: Persivia_32665_1649752210
+12-04-2022 08:30:10 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:11 INFO  UserDAO:49 - quickbloxUserId: 134371011 , quickbloxUserLogin: Persivia_32666_1649752210
+12-04-2022 08:30:11 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:11 INFO  UserDAO:49 - quickbloxUserId: 134371012 , quickbloxUserLogin: Persivia_32667_1649752211
+12-04-2022 08:30:11 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:11 INFO  UserDAO:49 - quickbloxUserId: 134371013 , quickbloxUserLogin: Persivia_32668_1649752211
+12-04-2022 08:30:11 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:12 INFO  UserDAO:49 - quickbloxUserId: 134371014 , quickbloxUserLogin: Persivia_32669_1649752211
+12-04-2022 08:30:12 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:12 INFO  UserDAO:49 - quickbloxUserId: 134371016 , quickbloxUserLogin: Persivia_32670_1649752212
+12-04-2022 08:30:12 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:12 INFO  UserDAO:49 - quickbloxUserId: 134371017 , quickbloxUserLogin: Persivia_32671_1649752212
+12-04-2022 08:30:12 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:13 INFO  UserDAO:49 - quickbloxUserId: 134371018 , quickbloxUserLogin: Persivia_32672_1649752212
+12-04-2022 08:30:13 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:13 INFO  UserDAO:49 - quickbloxUserId: 134371019 , quickbloxUserLogin: Persivia_32673_1649752213
+12-04-2022 08:30:13 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:13 INFO  UserDAO:49 - quickbloxUserId: 134371020 , quickbloxUserLogin: Persivia_32674_1649752213
+12-04-2022 08:30:13 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:14 INFO  UserDAO:49 - quickbloxUserId: 134371021 , quickbloxUserLogin: Persivia_32675_1649752213
+12-04-2022 08:30:14 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:14 INFO  UserDAO:49 - quickbloxUserId: 134371022 , quickbloxUserLogin: Persivia_32676_1649752214
+12-04-2022 08:30:14 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:15 INFO  UserDAO:49 - quickbloxUserId: 134371023 , quickbloxUserLogin: Persivia_32677_1649752214
+12-04-2022 08:30:15 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:15 INFO  UserDAO:49 - quickbloxUserId: 134371024 , quickbloxUserLogin: Persivia_32678_1649752215
+12-04-2022 08:30:15 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:15 INFO  UserDAO:49 - quickbloxUserId: 134371025 , quickbloxUserLogin: Persivia_32679_1649752215
+12-04-2022 08:30:15 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:16 INFO  UserDAO:49 - quickbloxUserId: 134371026 , quickbloxUserLogin: Persivia_32680_1649752215
+12-04-2022 08:30:16 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:16 INFO  UserDAO:49 - quickbloxUserId: 134371027 , quickbloxUserLogin: Persivia_32681_1649752216
+12-04-2022 08:30:16 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:17 INFO  UserDAO:49 - quickbloxUserId: 134371029 , quickbloxUserLogin: Persivia_32682_1649752216
+12-04-2022 08:30:17 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:17 INFO  UserDAO:49 - quickbloxUserId: 134371030 , quickbloxUserLogin: Persivia_32683_1649752217
+12-04-2022 08:30:17 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:17 INFO  UserDAO:49 - quickbloxUserId: 134371031 , quickbloxUserLogin: Persivia_32684_1649752217
+12-04-2022 08:30:17 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:18 INFO  UserDAO:49 - quickbloxUserId: 134371032 , quickbloxUserLogin: Persivia_32685_1649752217
+12-04-2022 08:30:18 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:18 INFO  UserDAO:49 - quickbloxUserId: 134371033 , quickbloxUserLogin: Persivia_32686_1649752218
+12-04-2022 08:30:18 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:18 INFO  UserDAO:49 - quickbloxUserId: 134371034 , quickbloxUserLogin: Persivia_32687_1649752218
+12-04-2022 08:30:18 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:19 INFO  UserDAO:49 - quickbloxUserId: 134371035 , quickbloxUserLogin: Persivia_32688_1649752218
+12-04-2022 08:30:19 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:20 INFO  UserDAO:49 - quickbloxUserId: 134371036 , quickbloxUserLogin: Persivia_32689_1649752219
+12-04-2022 08:30:20 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:20 INFO  UserDAO:49 - quickbloxUserId: 134371037 , quickbloxUserLogin: Persivia_32690_1649752220
+12-04-2022 08:30:20 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:20 INFO  UserDAO:49 - quickbloxUserId: 134371038 , quickbloxUserLogin: Persivia_32691_1649752220
+12-04-2022 08:30:21 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:21 INFO  UserDAO:49 - quickbloxUserId: 134371039 , quickbloxUserLogin: Persivia_32692_1649752221
+12-04-2022 08:30:21 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:21 INFO  UserDAO:49 - quickbloxUserId: 134371040 , quickbloxUserLogin: Persivia_32693_1649752221
+12-04-2022 08:30:21 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:22 INFO  UserDAO:49 - quickbloxUserId: 134371041 , quickbloxUserLogin: Persivia_32694_1649752221
+12-04-2022 08:30:22 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:22 INFO  UserDAO:49 - quickbloxUserId: 134371042 , quickbloxUserLogin: Persivia_32695_1649752222
+12-04-2022 08:30:22 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:22 INFO  UserDAO:49 - quickbloxUserId: 134371043 , quickbloxUserLogin: Persivia_32696_1649752222
+12-04-2022 08:30:22 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:23 INFO  UserDAO:49 - quickbloxUserId: 134371044 , quickbloxUserLogin: Persivia_32697_1649752222
+12-04-2022 08:30:23 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:23 INFO  UserDAO:49 - quickbloxUserId: 134371045 , quickbloxUserLogin: Persivia_32698_1649752223
+12-04-2022 08:30:23 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:23 INFO  UserDAO:49 - quickbloxUserId: 134371047 , quickbloxUserLogin: Persivia_32699_1649752223
+12-04-2022 08:30:23 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:24 INFO  UserDAO:49 - quickbloxUserId: 134371048 , quickbloxUserLogin: Persivia_32700_1649752223
+12-04-2022 08:30:24 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:24 INFO  UserDAO:49 - quickbloxUserId: 134371049 , quickbloxUserLogin: Persivia_32701_1649752224
+12-04-2022 08:30:24 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:24 INFO  UserDAO:49 - quickbloxUserId: 134371050 , quickbloxUserLogin: Persivia_32702_1649752224
+12-04-2022 08:30:24 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:25 INFO  UserDAO:49 - quickbloxUserId: 134371051 , quickbloxUserLogin: Persivia_32703_1649752224
+12-04-2022 08:30:25 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:25 INFO  UserDAO:49 - quickbloxUserId: 134371052 , quickbloxUserLogin: Persivia_32704_1649752225
+12-04-2022 08:30:25 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:25 INFO  UserDAO:49 - quickbloxUserId: 134371053 , quickbloxUserLogin: Persivia_32705_1649752225
+12-04-2022 08:30:25 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:26 INFO  UserDAO:49 - quickbloxUserId: 134371054 , quickbloxUserLogin: Persivia_32706_1649752225
+12-04-2022 08:30:26 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:26 INFO  UserDAO:49 - quickbloxUserId: 134371055 , quickbloxUserLogin: Persivia_32707_1649752226
+12-04-2022 08:30:26 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:26 INFO  UserDAO:49 - quickbloxUserId: 134371056 , quickbloxUserLogin: Persivia_32708_1649752226
+12-04-2022 08:30:27 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:27 INFO  UserDAO:49 - quickbloxUserId: 134371057 , quickbloxUserLogin: Persivia_32709_1649752227
+12-04-2022 08:30:27 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:27 INFO  UserDAO:49 - quickbloxUserId: 134371058 , quickbloxUserLogin: Persivia_32710_1649752227
+12-04-2022 08:30:27 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:28 INFO  UserDAO:49 - quickbloxUserId: 134371059 , quickbloxUserLogin: Persivia_32711_1649752227
+12-04-2022 08:30:28 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:28 INFO  UserDAO:49 - quickbloxUserId: 134371060 , quickbloxUserLogin: Persivia_32712_1649752228
+12-04-2022 08:30:28 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:28 INFO  UserDAO:49 - quickbloxUserId: 134371061 , quickbloxUserLogin: Persivia_32713_1649752228
+12-04-2022 08:30:28 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:29 INFO  UserDAO:49 - quickbloxUserId: 134371062 , quickbloxUserLogin: Persivia_32714_1649752228
+12-04-2022 08:30:29 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:29 INFO  UserDAO:49 - quickbloxUserId: 134371063 , quickbloxUserLogin: Persivia_32715_1649752229
+12-04-2022 08:30:29 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:29 INFO  UserDAO:49 - quickbloxUserId: 134371064 , quickbloxUserLogin: Persivia_32716_1649752229
+12-04-2022 08:30:29 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:30 INFO  UserDAO:49 - quickbloxUserId: 134371065 , quickbloxUserLogin: Persivia_32717_1649752229
+12-04-2022 08:30:30 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:30 INFO  UserDAO:49 - quickbloxUserId: 134371066 , quickbloxUserLogin: Persivia_32718_1649752230
+12-04-2022 08:30:30 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:30 INFO  UserDAO:49 - quickbloxUserId: 134371067 , quickbloxUserLogin: Persivia_32719_1649752230
+12-04-2022 08:30:30 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:31 INFO  UserDAO:49 - quickbloxUserId: 134371068 , quickbloxUserLogin: Persivia_32720_1649752230
+12-04-2022 08:30:31 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:31 INFO  UserDAO:49 - quickbloxUserId: 134371069 , quickbloxUserLogin: Persivia_32721_1649752231
+12-04-2022 08:30:31 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:32 INFO  UserDAO:49 - quickbloxUserId: 134371070 , quickbloxUserLogin: Persivia_32722_1649752231
+12-04-2022 08:30:32 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:32 INFO  UserDAO:49 - quickbloxUserId: 134371071 , quickbloxUserLogin: Persivia_32723_1649752232
+12-04-2022 08:30:32 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:32 INFO  UserDAO:49 - quickbloxUserId: 134371072 , quickbloxUserLogin: Persivia_32724_1649752232
+12-04-2022 08:30:32 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:33 INFO  UserDAO:49 - quickbloxUserId: 134371073 , quickbloxUserLogin: Persivia_32725_1649752232
+12-04-2022 08:30:33 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:33 INFO  UserDAO:49 - quickbloxUserId: 134371074 , quickbloxUserLogin: Persivia_32726_1649752233
+12-04-2022 08:30:33 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:33 INFO  UserDAO:49 - quickbloxUserId: 134371075 , quickbloxUserLogin: Persivia_32727_1649752233
+12-04-2022 08:30:33 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:34 INFO  UserDAO:49 - quickbloxUserId: 134371076 , quickbloxUserLogin: Persivia_32728_1649752233
+12-04-2022 08:30:34 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:34 INFO  UserDAO:49 - quickbloxUserId: 134371077 , quickbloxUserLogin: Persivia_32729_1649752234
+12-04-2022 08:30:34 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:34 INFO  UserDAO:49 - quickbloxUserId: 134371078 , quickbloxUserLogin: Persivia_32730_1649752234
+12-04-2022 08:30:34 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:35 INFO  UserDAO:49 - quickbloxUserId: 134371079 , quickbloxUserLogin: Persivia_32731_1649752234
+12-04-2022 08:30:35 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:35 INFO  UserDAO:49 - quickbloxUserId: 134371080 , quickbloxUserLogin: Persivia_32732_1649752235
+12-04-2022 08:30:35 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:36 INFO  UserDAO:49 - quickbloxUserId: 134371081 , quickbloxUserLogin: Persivia_32733_1649752235
+12-04-2022 08:30:36 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:36 INFO  UserDAO:49 - quickbloxUserId: 134371082 , quickbloxUserLogin: Persivia_32734_1649752236
+12-04-2022 08:30:36 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:36 INFO  UserDAO:49 - quickbloxUserId: 134371083 , quickbloxUserLogin: Persivia_32735_1649752236
+12-04-2022 08:30:36 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:37 INFO  UserDAO:49 - quickbloxUserId: 134371084 , quickbloxUserLogin: Persivia_32736_1649752236
+12-04-2022 08:30:37 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:37 INFO  UserDAO:49 - quickbloxUserId: 134371085 , quickbloxUserLogin: Persivia_32737_1649752237
+12-04-2022 08:30:37 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:37 INFO  UserDAO:49 - quickbloxUserId: 134371086 , quickbloxUserLogin: Persivia_32738_1649752237
+12-04-2022 08:30:37 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:38 INFO  UserDAO:49 - quickbloxUserId: 134371087 , quickbloxUserLogin: Persivia_32739_1649752237
+12-04-2022 08:30:38 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:38 INFO  UserDAO:49 - quickbloxUserId: 134371088 , quickbloxUserLogin: Persivia_32740_1649752238
+12-04-2022 08:30:38 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:38 INFO  UserDAO:49 - quickbloxUserId: 134371089 , quickbloxUserLogin: Persivia_32741_1649752238
+12-04-2022 08:30:38 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:39 INFO  UserDAO:49 - quickbloxUserId: 134371090 , quickbloxUserLogin: Persivia_32742_1649752238
+12-04-2022 08:30:39 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:39 INFO  UserDAO:49 - quickbloxUserId: 134371091 , quickbloxUserLogin: Persivia_32743_1649752239
+12-04-2022 08:30:39 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:39 INFO  UserDAO:49 - quickbloxUserId: 134371092 , quickbloxUserLogin: Persivia_32744_1649752239
+12-04-2022 08:30:40 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:40 INFO  UserDAO:49 - quickbloxUserId: 134371093 , quickbloxUserLogin: Persivia_32745_1649752240
+12-04-2022 08:30:40 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:40 INFO  UserDAO:49 - quickbloxUserId: 134371094 , quickbloxUserLogin: Persivia_32746_1649752240
+12-04-2022 08:30:40 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:41 INFO  UserDAO:49 - quickbloxUserId: 134371095 , quickbloxUserLogin: Persivia_32747_1649752240
+12-04-2022 08:30:41 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:41 INFO  UserDAO:49 - quickbloxUserId: 134371096 , quickbloxUserLogin: Persivia_32748_1649752241
+12-04-2022 08:30:41 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:41 INFO  UserDAO:49 - quickbloxUserId: 134371097 , quickbloxUserLogin: Persivia_32749_1649752241
+12-04-2022 08:30:41 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:42 INFO  UserDAO:49 - quickbloxUserId: 134371098 , quickbloxUserLogin: Persivia_32750_1649752241
+12-04-2022 08:30:42 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:42 INFO  UserDAO:49 - quickbloxUserId: 134371099 , quickbloxUserLogin: Persivia_32751_1649752242
+12-04-2022 08:30:42 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:43 INFO  UserDAO:49 - quickbloxUserId: 134371100 , quickbloxUserLogin: Persivia_32752_1649752242
+12-04-2022 08:30:43 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:43 INFO  UserDAO:49 - quickbloxUserId: 134371101 , quickbloxUserLogin: Persivia_32753_1649752243
+12-04-2022 08:30:43 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:43 INFO  UserDAO:49 - quickbloxUserId: 134371102 , quickbloxUserLogin: Persivia_32754_1649752243
+12-04-2022 08:30:43 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:44 INFO  UserDAO:49 - quickbloxUserId: 134371103 , quickbloxUserLogin: Persivia_32755_1649752243
+12-04-2022 08:30:44 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:44 INFO  UserDAO:49 - quickbloxUserId: 134371104 , quickbloxUserLogin: Persivia_32756_1649752244
+12-04-2022 08:30:44 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:44 INFO  UserDAO:49 - quickbloxUserId: 134371105 , quickbloxUserLogin: Persivia_32757_1649752244
+12-04-2022 08:30:44 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:45 INFO  UserDAO:49 - quickbloxUserId: 134371106 , quickbloxUserLogin: Persivia_32758_1649752244
+12-04-2022 08:30:45 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:45 INFO  UserDAO:49 - quickbloxUserId: 134371107 , quickbloxUserLogin: Persivia_32759_1649752245
+12-04-2022 08:30:45 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:45 INFO  UserDAO:49 - quickbloxUserId: 134371108 , quickbloxUserLogin: Persivia_32760_1649752245
+12-04-2022 08:30:45 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:46 INFO  UserDAO:49 - quickbloxUserId: 134371109 , quickbloxUserLogin: Persivia_32761_1649752245
+12-04-2022 08:30:46 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:46 INFO  UserDAO:49 - quickbloxUserId: 134371110 , quickbloxUserLogin: Persivia_32762_1649752246
+12-04-2022 08:30:46 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:47 INFO  UserDAO:49 - quickbloxUserId: 134371111 , quickbloxUserLogin: Persivia_32763_1649752246
+12-04-2022 08:30:47 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:47 INFO  UserDAO:49 - quickbloxUserId: 134371112 , quickbloxUserLogin: Persivia_32764_1649752247
+12-04-2022 08:30:47 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:47 INFO  UserDAO:49 - quickbloxUserId: 134371113 , quickbloxUserLogin: Persivia_32765_1649752247
+12-04-2022 08:30:47 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:48 INFO  UserDAO:49 - quickbloxUserId: 134371114 , quickbloxUserLogin: Persivia_32766_1649752247
+12-04-2022 08:30:48 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:48 INFO  UserDAO:49 - quickbloxUserId: 134371115 , quickbloxUserLogin: Persivia_32767_1649752248
+12-04-2022 08:30:48 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:49 INFO  UserDAO:49 - quickbloxUserId: 134371116 , quickbloxUserLogin: Persivia_32768_1649752248
+12-04-2022 08:30:49 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:49 INFO  UserDAO:49 - quickbloxUserId: 134371117 , quickbloxUserLogin: Persivia_32769_1649752249
+12-04-2022 08:30:49 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:49 INFO  UserDAO:49 - quickbloxUserId: 134371118 , quickbloxUserLogin: Persivia_32770_1649752249
+12-04-2022 08:30:49 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:50 INFO  UserDAO:49 - quickbloxUserId: 134371119 , quickbloxUserLogin: Persivia_32771_1649752249
+12-04-2022 08:30:50 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:50 INFO  UserDAO:49 - quickbloxUserId: 134371120 , quickbloxUserLogin: Persivia_32772_1649752250
+12-04-2022 08:30:50 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:50 INFO  UserDAO:49 - quickbloxUserId: 134371121 , quickbloxUserLogin: Persivia_32773_1649752250
+12-04-2022 08:30:50 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:51 INFO  UserDAO:49 - quickbloxUserId: 134371122 , quickbloxUserLogin: Persivia_32774_1649752250
+12-04-2022 08:30:51 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:51 INFO  UserDAO:49 - quickbloxUserId: 134371123 , quickbloxUserLogin: Persivia_32775_1649752251
+12-04-2022 08:30:51 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:51 INFO  UserDAO:49 - quickbloxUserId: 134371124 , quickbloxUserLogin: Persivia_32776_1649752251
+12-04-2022 08:30:51 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:52 INFO  UserDAO:49 - quickbloxUserId: 134371125 , quickbloxUserLogin: Persivia_32777_1649752251
+12-04-2022 08:30:52 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:52 INFO  UserDAO:49 - quickbloxUserId: 134371126 , quickbloxUserLogin: Persivia_32778_1649752252
+12-04-2022 08:30:52 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:53 INFO  UserDAO:49 - quickbloxUserId: 134371127 , quickbloxUserLogin: Persivia_32779_1649752252
+12-04-2022 08:30:53 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:53 INFO  UserDAO:49 - quickbloxUserId: 134371128 , quickbloxUserLogin: Persivia_32780_1649752253
+12-04-2022 08:30:53 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 08:30:53 INFO  UserDAO:49 - quickbloxUserId: 134371129 , quickbloxUserLogin: Persivia_32781_1649752253
+12-04-2022 08:30:53 INFO  UserDAO:53 - Save quickblox status is: 1 QB application ID: 88898
+12-04-2022 09:05:11 INFO  UserRegistration:95 - Quick Blox User Registration Scheduler Started @ Tue Apr 12 09:05:11 UTC 2022
+12-04-2022 09:05:11 INFO  ClassPathXmlApplicationContext:582 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@deb6432: startup date [Tue Apr 12 09:05:11 UTC 2022]; root of context hierarchy
+12-04-2022 09:05:12 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [applicationContext.xml]
+12-04-2022 09:05:12 INFO  PropertySourcesPlaceholderConfigurer:172 - Loading properties file from class path resource [application.properties]
+12-04-2022 09:05:12 INFO  MLog:203 - MLog clients using slf4j logging.
+12-04-2022 09:05:12 INFO  C3P0Registry:203 - Initializing c3p0-0.9.5 [built 02-January-2015 13:25:04 -0500; debug? true; trace: 10]
+12-04-2022 09:05:12 INFO  AbstractPoolBackedDataSource:203 - Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 3, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, contextClassLoaderSource -> caller, dataSourceName -> 1bqq1heao81vc02ud991w|2357d90a, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.microsoft.sqlserver.jdbc.SQLServerDriver, extensions -> {}, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, forceUseNamedDriverClass -> false, identityToken -> 1bqq1heao81vc02ud991w|2357d90a, idleConnectionTestPeriod -> 0, initialPoolSize -> 3, jdbcUrl -> jdbc:sqlserver://10.20.30.102;DatabaseName=PORTALDB, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 70, maxStatements -> 100, maxStatementsPerConnection -> 0, minPoolSize -> 10, numHelperThreads -> 3, preferredTestQuery -> null, privilegeSpawnedThreads -> false, properties -> {user=******, password=******}, propertyCycle -> 0, statementCacheNumDeferredCloseThreads -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> true, unreturnedConnectionTimeout -> 0, userOverrides -> {}, usesTraditionalReflectiveProxies -> false ]
+12-04-2022 09:05:12 WARN  BasicResourcePool:211 - Bad pool size config, start 3 < min 10. Using 10 as start.
+12-04-2022 10:01:02 INFO  UserRegistration:95 - Quick Blox User Registration Scheduler Started @ Tue Apr 12 10:01:02 UTC 2022
+12-04-2022 10:01:02 INFO  ClassPathXmlApplicationContext:582 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@deb6432: startup date [Tue Apr 12 10:01:02 UTC 2022]; root of context hierarchy
+12-04-2022 10:01:02 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [applicationContext.xml]
+12-04-2022 10:01:03 INFO  PropertySourcesPlaceholderConfigurer:172 - Loading properties file from class path resource [application.properties]
+12-04-2022 10:01:03 INFO  MLog:203 - MLog clients using slf4j logging.
+12-04-2022 10:01:03 INFO  C3P0Registry:203 - Initializing c3p0-0.9.5 [built 02-January-2015 13:25:04 -0500; debug? true; trace: 10]
+12-04-2022 10:01:03 INFO  AbstractPoolBackedDataSource:203 - Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 3, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, contextClassLoaderSource -> caller, dataSourceName -> 1bqq1heao83v5j2buqcxv|2357d90a, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.microsoft.sqlserver.jdbc.SQLServerDriver, extensions -> {}, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, forceUseNamedDriverClass -> false, identityToken -> 1bqq1heao83v5j2buqcxv|2357d90a, idleConnectionTestPeriod -> 0, initialPoolSize -> 3, jdbcUrl -> jdbc:sqlserver://10.20.30.102;DatabaseName=PORTALDB, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 70, maxStatements -> 100, maxStatementsPerConnection -> 0, minPoolSize -> 10, numHelperThreads -> 3, preferredTestQuery -> null, privilegeSpawnedThreads -> false, properties -> {user=******, password=******}, propertyCycle -> 0, statementCacheNumDeferredCloseThreads -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> true, unreturnedConnectionTimeout -> 0, userOverrides -> {}, usesTraditionalReflectiveProxies -> false ]
+12-04-2022 10:01:03 WARN  BasicResourcePool:211 - Bad pool size config, start 3 < min 10. Using 10 as start.
+12-04-2022 10:01:10 INFO  UserRegistration:95 - Quick Blox User Registration Scheduler Started @ Tue Apr 12 10:01:10 UTC 2022
+12-04-2022 10:01:10 INFO  ClassPathXmlApplicationContext:582 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@deb6432: startup date [Tue Apr 12 10:01:10 UTC 2022]; root of context hierarchy
+12-04-2022 10:01:10 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [applicationContext.xml]
+12-04-2022 10:01:11 INFO  PropertySourcesPlaceholderConfigurer:172 - Loading properties file from class path resource [application.properties]
+12-04-2022 10:01:11 INFO  MLog:203 - MLog clients using slf4j logging.
+12-04-2022 10:01:11 INFO  C3P0Registry:203 - Initializing c3p0-0.9.5 [built 02-January-2015 13:25:04 -0500; debug? true; trace: 10]
+12-04-2022 10:01:11 INFO  AbstractPoolBackedDataSource:203 - Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 3, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, contextClassLoaderSource -> caller, dataSourceName -> 1bqq1heao83vbk2rhgy4i|2357d90a, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.microsoft.sqlserver.jdbc.SQLServerDriver, extensions -> {}, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, forceUseNamedDriverClass -> false, identityToken -> 1bqq1heao83vbk2rhgy4i|2357d90a, idleConnectionTestPeriod -> 0, initialPoolSize -> 3, jdbcUrl -> jdbc:sqlserver://10.20.30.102;DatabaseName=PORTALDB, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 70, maxStatements -> 100, maxStatementsPerConnection -> 0, minPoolSize -> 10, numHelperThreads -> 3, preferredTestQuery -> null, privilegeSpawnedThreads -> false, properties -> {user=******, password=******}, propertyCycle -> 0, statementCacheNumDeferredCloseThreads -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> true, unreturnedConnectionTimeout -> 0, userOverrides -> {}, usesTraditionalReflectiveProxies -> false ]
+12-04-2022 10:01:11 WARN  BasicResourcePool:211 - Bad pool size config, start 3 < min 10. Using 10 as start.

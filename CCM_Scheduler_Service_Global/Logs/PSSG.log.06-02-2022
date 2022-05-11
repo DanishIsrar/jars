@@ -1,0 +1,888 @@
+[2022-02-06 00:00:00,012] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 00:00:00 PKT 2022
+[2022-02-06 00:00:00,012] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 00:00:30,047] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 00:00:30,047] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 00:03:00,008] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 00:03:00 PKT 2022
+[2022-02-06 00:03:00,008] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 00:03:30,055] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 00:03:30,055] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 00:06:00,010] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 00:06:00 PKT 2022
+[2022-02-06 00:06:00,010] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 00:06:30,044] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 00:06:30,044] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 00:09:00,013] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 00:09:00 PKT 2022
+[2022-02-06 00:09:00,013] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 00:09:30,045] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 00:09:30,045] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 00:12:00,002] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 00:12:00 PKT 2022
+[2022-02-06 00:12:00,002] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 00:12:30,022] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 00:12:30,022] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 00:15:00,006] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 00:15:00 PKT 2022
+[2022-02-06 00:15:00,006] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 00:15:30,053] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 00:15:30,053] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 00:18:00,005] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 00:18:00 PKT 2022
+[2022-02-06 00:18:00,005] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 00:18:30,039] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 00:18:30,039] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 00:21:00,011] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 00:21:00 PKT 2022
+[2022-02-06 00:21:00,011] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 00:21:30,072] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 00:21:30,072] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 00:24:00,010] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 00:24:00 PKT 2022
+[2022-02-06 00:24:00,010] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 00:24:30,043] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 00:24:30,043] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 00:27:00,006] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 00:27:00 PKT 2022
+[2022-02-06 00:27:00,006] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 00:27:30,038] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 00:27:30,038] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 00:30:00,007] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 00:30:00 PKT 2022
+[2022-02-06 00:30:00,007] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 00:30:30,056] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 00:30:30,056] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 00:33:00,003] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 00:33:00 PKT 2022
+[2022-02-06 00:33:00,003] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 00:33:30,038] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 00:33:30,038] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 00:36:00,010] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 00:36:00 PKT 2022
+[2022-02-06 00:36:00,010] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 00:36:30,050] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 00:36:30,050] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 00:39:00,015] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 00:39:00 PKT 2022
+[2022-02-06 00:39:00,015] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 00:39:30,056] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 00:39:30,056] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 00:42:00,015] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 00:42:00 PKT 2022
+[2022-02-06 00:42:00,015] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 00:42:30,062] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 00:42:30,062] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 00:45:00,004] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 00:45:00 PKT 2022
+[2022-02-06 00:45:00,004] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 00:45:30,051] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 00:45:30,051] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 00:48:00,011] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 00:48:00 PKT 2022
+[2022-02-06 00:48:00,011] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 00:48:30,071] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 00:48:30,071] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 00:51:00,005] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 00:51:00 PKT 2022
+[2022-02-06 00:51:00,005] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 00:51:30,051] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 00:51:30,051] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 00:54:00,002] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 00:54:00 PKT 2022
+[2022-02-06 00:54:00,002] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 00:54:30,048] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 00:54:30,048] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 00:57:00,011] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 00:57:00 PKT 2022
+[2022-02-06 00:57:00,011] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 00:57:30,048] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 00:57:30,048] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 01:00:00,003] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 01:00:00 PKT 2022
+[2022-02-06 01:00:00,003] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 01:00:30,037] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 01:00:30,037] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 01:03:00,011] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 01:03:00 PKT 2022
+[2022-02-06 01:03:00,011] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 01:03:30,047] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 01:03:30,047] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 01:06:00,006] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 01:06:00 PKT 2022
+[2022-02-06 01:06:00,006] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 01:06:30,050] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 01:06:30,050] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 01:09:00,007] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 01:09:00 PKT 2022
+[2022-02-06 01:09:00,007] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 01:09:30,063] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 01:09:30,078] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 01:12:00,016] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 01:12:00 PKT 2022
+[2022-02-06 01:12:00,016] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 01:12:30,049] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 01:12:30,049] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 01:15:00,011] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 01:15:00 PKT 2022
+[2022-02-06 01:15:00,011] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 01:15:30,053] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 01:15:30,053] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 01:18:00,026] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 01:18:00 PKT 2022
+[2022-02-06 01:18:00,026] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 01:18:30,043] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 01:18:30,043] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 01:21:00,014] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 01:21:00 PKT 2022
+[2022-02-06 01:21:00,014] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 01:21:30,055] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 01:21:30,055] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 01:24:00,003] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 01:24:00 PKT 2022
+[2022-02-06 01:24:00,003] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 01:24:30,024] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 01:24:30,024] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 01:27:00,002] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 01:27:00 PKT 2022
+[2022-02-06 01:27:00,002] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 01:27:30,049] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 01:27:30,049] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 01:30:00,023] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 01:30:00 PKT 2022
+[2022-02-06 01:30:00,023] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 01:30:30,062] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 01:30:30,062] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 01:33:00,007] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 01:33:00 PKT 2022
+[2022-02-06 01:33:00,007] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 01:33:30,046] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 01:33:30,046] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 01:36:00,005] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 01:36:00 PKT 2022
+[2022-02-06 01:36:00,005] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 01:36:30,044] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 01:36:30,044] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 01:39:00,009] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 01:39:00 PKT 2022
+[2022-02-06 01:39:00,009] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 01:39:30,047] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 01:39:30,047] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 01:42:00,001] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 01:42:00 PKT 2022
+[2022-02-06 01:42:00,001] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 01:42:30,034] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 01:42:30,034] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 01:45:00,008] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 01:45:00 PKT 2022
+[2022-02-06 01:45:00,008] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 01:45:30,044] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 01:45:30,044] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 01:48:00,010] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 01:48:00 PKT 2022
+[2022-02-06 01:48:00,010] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 01:48:30,049] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 01:48:30,049] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 01:51:00,012] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 01:51:00 PKT 2022
+[2022-02-06 01:51:00,012] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 01:51:30,046] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 01:51:30,046] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 01:54:00,007] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 01:54:00 PKT 2022
+[2022-02-06 01:54:00,007] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 01:54:30,054] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 01:54:30,054] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 01:57:00,014] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 01:57:00 PKT 2022
+[2022-02-06 01:57:00,014] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 01:57:30,056] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 01:57:30,056] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 02:00:00,007] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 02:00:00 PKT 2022
+[2022-02-06 02:00:00,023] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 02:00:30,039] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 02:00:30,039] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 02:03:00,002] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 02:03:00 PKT 2022
+[2022-02-06 02:03:00,002] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 02:03:30,043] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 02:03:30,043] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 02:06:00,007] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 02:06:00 PKT 2022
+[2022-02-06 02:06:00,007] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 02:06:30,033] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 02:06:30,033] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 02:09:00,001] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 02:09:00 PKT 2022
+[2022-02-06 02:09:00,001] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 02:09:30,026] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 02:09:30,026] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 02:12:00,001] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 02:12:00 PKT 2022
+[2022-02-06 02:12:00,001] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 02:12:30,026] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 02:12:30,026] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 02:15:00,011] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 02:15:00 PKT 2022
+[2022-02-06 02:15:00,011] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 02:15:30,045] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 02:15:30,045] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 02:18:00,002] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 02:18:00 PKT 2022
+[2022-02-06 02:18:00,002] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 02:18:30,042] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 02:18:30,042] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 02:21:00,016] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 02:21:00 PKT 2022
+[2022-02-06 02:21:00,016] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 02:21:30,059] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 02:21:30,059] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 02:24:00,005] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 02:24:00 PKT 2022
+[2022-02-06 02:24:00,005] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 02:24:30,048] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 02:24:30,048] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 02:27:00,000] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 02:27:00 PKT 2022
+[2022-02-06 02:27:00,001] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 02:27:30,072] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 02:27:30,072] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 02:30:00,004] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 02:30:00 PKT 2022
+[2022-02-06 02:30:00,004] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 02:30:30,071] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 02:30:30,071] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 02:33:00,001] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 02:33:00 PKT 2022
+[2022-02-06 02:33:00,002] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 02:33:30,073] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 02:33:30,073] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 02:36:00,008] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 02:36:00 PKT 2022
+[2022-02-06 02:36:00,008] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 02:36:30,039] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 02:36:30,039] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 02:39:00,004] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 02:39:00 PKT 2022
+[2022-02-06 02:39:00,004] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 02:39:30,029] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 02:39:30,029] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 02:41:59,999] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 02:41:59 PKT 2022
+[2022-02-06 02:41:59,999] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 02:42:30,037] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 02:42:30,037] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 02:45:00,008] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 02:45:00 PKT 2022
+[2022-02-06 02:45:00,008] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 02:45:30,052] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 02:45:30,052] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 02:48:00,013] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 02:48:00 PKT 2022
+[2022-02-06 02:48:00,013] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 02:48:30,043] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 02:48:30,043] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 02:51:00,009] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 02:51:00 PKT 2022
+[2022-02-06 02:51:00,009] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 02:51:30,053] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 02:51:30,053] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 02:54:00,000] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 02:54:00 PKT 2022
+[2022-02-06 02:54:00,000] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 02:54:30,023] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 02:54:30,023] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 02:57:00,009] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 02:57:00 PKT 2022
+[2022-02-06 02:57:00,009] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 02:57:30,028] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 02:57:30,028] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 03:00:00,012] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 03:00:00 PKT 2022
+[2022-02-06 03:00:00,012] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 03:00:30,053] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 03:00:30,053] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 03:03:00,013] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 03:03:00 PKT 2022
+[2022-02-06 03:03:00,013] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 03:03:30,030] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 03:03:30,030] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 03:06:00,034] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 03:06:00 PKT 2022
+[2022-02-06 03:06:00,034] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 03:06:30,051] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 03:06:30,051] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 03:09:00,006] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 03:09:00 PKT 2022
+[2022-02-06 03:09:00,006] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 03:09:30,047] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 03:09:30,047] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 03:12:00,011] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 03:12:00 PKT 2022
+[2022-02-06 03:12:00,011] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 03:12:30,059] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 03:12:30,059] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 03:15:00,011] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 03:15:00 PKT 2022
+[2022-02-06 03:15:00,011] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 03:15:30,044] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 03:15:30,044] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 03:18:00,009] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 03:18:00 PKT 2022
+[2022-02-06 03:18:00,009] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 03:18:30,048] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 03:18:30,048] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 03:21:00,004] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 03:21:00 PKT 2022
+[2022-02-06 03:21:00,004] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 03:21:30,021] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 03:21:30,021] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 03:24:00,007] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 03:24:00 PKT 2022
+[2022-02-06 03:24:00,007] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 03:24:30,050] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 03:24:30,050] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 03:27:00,000] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 03:27:00 PKT 2022
+[2022-02-06 03:27:00,000] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 03:27:30,018] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 03:27:30,018] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 03:30:00,031] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 03:30:00 PKT 2022
+[2022-02-06 03:30:00,031] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 03:30:30,076] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 03:30:30,076] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 03:33:00,008] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 03:33:00 PKT 2022
+[2022-02-06 03:33:00,008] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 03:33:30,048] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 03:33:30,048] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 03:36:00,000] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 03:36:00 PKT 2022
+[2022-02-06 03:36:00,000] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 03:36:30,031] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 03:36:30,031] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 03:39:00,027] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 03:39:00 PKT 2022
+[2022-02-06 03:39:00,027] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 03:39:30,064] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 03:39:30,064] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 03:42:00,007] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 03:42:00 PKT 2022
+[2022-02-06 03:42:00,007] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 03:42:30,049] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 03:42:30,049] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 03:45:00,003] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 03:45:00 PKT 2022
+[2022-02-06 03:45:00,003] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 03:45:30,035] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 03:45:30,035] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 03:48:00,011] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 03:48:00 PKT 2022
+[2022-02-06 03:48:00,011] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 03:48:30,049] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 03:48:30,049] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 03:51:00,015] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 03:51:00 PKT 2022
+[2022-02-06 03:51:00,015] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 03:51:30,042] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 03:51:30,042] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 03:54:00,006] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 03:54:00 PKT 2022
+[2022-02-06 03:54:00,006] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 03:54:30,047] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 03:54:30,047] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 03:57:00,005] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 03:57:00 PKT 2022
+[2022-02-06 03:57:00,005] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 03:57:30,041] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 03:57:30,041] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 04:00:00,001] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 04:00:00 PKT 2022
+[2022-02-06 04:00:00,001] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 04:00:30,011] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 04:00:30,011] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 04:03:00,001] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 04:03:00 PKT 2022
+[2022-02-06 04:03:00,001] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 04:03:30,037] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 04:03:30,037] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 04:06:00,008] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 04:06:00 PKT 2022
+[2022-02-06 04:06:00,008] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 04:06:30,036] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 04:06:30,036] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 04:09:00,011] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 04:09:00 PKT 2022
+[2022-02-06 04:09:00,011] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 04:09:30,055] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 04:09:30,055] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 04:12:00,006] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 04:12:00 PKT 2022
+[2022-02-06 04:12:00,006] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 04:12:30,041] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 04:12:30,041] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 04:15:00,014] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 04:15:00 PKT 2022
+[2022-02-06 04:15:00,014] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 04:15:30,050] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 04:15:30,050] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 04:18:00,005] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 04:18:00 PKT 2022
+[2022-02-06 04:18:00,005] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 04:18:30,053] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 04:18:30,053] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 04:21:00,009] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 04:21:00 PKT 2022
+[2022-02-06 04:21:00,009] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 04:21:30,052] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 04:21:30,052] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 04:24:00,013] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 04:24:00 PKT 2022
+[2022-02-06 04:24:00,013] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 04:24:30,030] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 04:24:30,030] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 04:27:00,012] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 04:27:00 PKT 2022
+[2022-02-06 04:27:00,012] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 04:27:30,002] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 04:27:30,002] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 04:30:00,009] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 04:30:00 PKT 2022
+[2022-02-06 04:30:00,009] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 04:30:30,044] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 04:30:30,044] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 04:33:00,005] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 04:33:00 PKT 2022
+[2022-02-06 04:33:00,005] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 04:33:30,030] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 04:33:30,030] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 04:36:00,002] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 04:36:00 PKT 2022
+[2022-02-06 04:36:00,002] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 04:36:30,034] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 04:36:30,034] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 04:39:00,011] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 04:39:00 PKT 2022
+[2022-02-06 04:39:00,011] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 04:39:30,042] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 04:39:30,042] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 04:42:00,005] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 04:42:00 PKT 2022
+[2022-02-06 04:42:00,005] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 04:42:30,023] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 04:42:30,023] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 04:45:00,008] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 04:45:00 PKT 2022
+[2022-02-06 04:45:00,008] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 04:45:30,030] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 04:45:30,030] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 04:48:00,005] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 04:48:00 PKT 2022
+[2022-02-06 04:48:00,005] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 04:48:30,053] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 04:48:30,053] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 04:51:00,007] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 04:51:00 PKT 2022
+[2022-02-06 04:51:00,007] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 04:51:30,054] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 04:51:30,054] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 04:54:00,005] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 04:54:00 PKT 2022
+[2022-02-06 04:54:00,005] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 04:54:30,050] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 04:54:30,050] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 04:57:00,015] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 04:57:00 PKT 2022
+[2022-02-06 04:57:00,015] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 04:57:30,046] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 04:57:30,046] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 05:00:00,013] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 05:00:00 PKT 2022
+[2022-02-06 05:00:00,013] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 05:00:30,030] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 05:00:30,030] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 05:03:00,006] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 05:03:00 PKT 2022
+[2022-02-06 05:03:00,006] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 05:03:30,046] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 05:03:30,046] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 05:06:00,009] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 05:06:00 PKT 2022
+[2022-02-06 05:06:00,009] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 05:06:30,048] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 05:06:30,048] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 05:09:00,011] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 05:09:00 PKT 2022
+[2022-02-06 05:09:00,011] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 05:09:30,027] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 05:09:30,027] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 05:12:00,013] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 05:12:00 PKT 2022
+[2022-02-06 05:12:00,013] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 05:12:30,032] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 05:12:30,032] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 05:15:00,004] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 05:15:00 PKT 2022
+[2022-02-06 05:15:00,004] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 05:15:30,051] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 05:15:30,051] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 05:18:00,009] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 05:18:00 PKT 2022
+[2022-02-06 05:18:00,009] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 05:18:30,040] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 05:18:30,040] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 05:21:00,008] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 05:21:00 PKT 2022
+[2022-02-06 05:21:00,008] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 05:21:30,056] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 05:21:30,056] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 05:24:00,010] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 05:24:00 PKT 2022
+[2022-02-06 05:24:00,010] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 05:24:30,042] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 05:24:30,042] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 05:27:00,009] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 05:27:00 PKT 2022
+[2022-02-06 05:27:00,009] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 05:27:30,043] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 05:27:30,043] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 05:30:00,020] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 05:30:00 PKT 2022
+[2022-02-06 05:30:00,020] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 05:30:30,067] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 05:30:30,067] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 05:33:00,007] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 05:33:00 PKT 2022
+[2022-02-06 05:33:00,007] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 05:33:30,038] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 05:33:30,038] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 05:36:00,012] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 05:36:00 PKT 2022
+[2022-02-06 05:36:00,012] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 05:36:30,057] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 05:36:30,057] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 05:39:00,001] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 05:39:00 PKT 2022
+[2022-02-06 05:39:00,001] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 05:39:30,035] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 05:39:30,035] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 05:42:00,012] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 05:42:00 PKT 2022
+[2022-02-06 05:42:00,012] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 05:42:30,040] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 05:42:30,040] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 05:45:00,009] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 05:45:00 PKT 2022
+[2022-02-06 05:45:00,009] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 05:45:30,049] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 05:45:30,049] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 05:48:00,013] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 05:48:00 PKT 2022
+[2022-02-06 05:48:00,013] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 05:48:30,065] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 05:48:30,065] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 05:51:00,016] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 05:51:00 PKT 2022
+[2022-02-06 05:51:00,016] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 05:51:30,036] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 05:51:30,036] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 05:54:00,010] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 05:54:00 PKT 2022
+[2022-02-06 05:54:00,010] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 05:54:30,050] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 05:54:30,050] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 05:57:00,011] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 05:57:00 PKT 2022
+[2022-02-06 05:57:00,011] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 05:57:30,050] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 05:57:30,050] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 06:00:00,004] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 06:00:00 PKT 2022
+[2022-02-06 06:00:00,004] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 06:00:30,049] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 06:00:30,049] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 06:03:00,006] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 06:03:00 PKT 2022
+[2022-02-06 06:03:00,006] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 06:03:30,055] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 06:03:30,055] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 06:06:00,010] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 06:06:00 PKT 2022
+[2022-02-06 06:06:00,010] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 06:06:30,060] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 06:06:30,060] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 06:09:00,006] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 06:09:00 PKT 2022
+[2022-02-06 06:09:00,006] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 06:09:30,042] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 06:09:30,042] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 06:12:00,010] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 06:12:00 PKT 2022
+[2022-02-06 06:12:00,010] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 06:12:30,028] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 06:12:30,028] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 06:15:00,008] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 06:15:00 PKT 2022
+[2022-02-06 06:15:00,009] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 06:15:30,073] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 06:15:30,073] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 06:18:00,002] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 06:18:00 PKT 2022
+[2022-02-06 06:18:00,002] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 06:18:30,028] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 06:18:30,028] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 06:21:00,002] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 06:21:00 PKT 2022
+[2022-02-06 06:21:00,002] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 06:21:30,042] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 06:21:30,042] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 06:24:00,016] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 06:24:00 PKT 2022
+[2022-02-06 06:24:00,016] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 06:24:30,041] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 06:24:30,041] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 06:27:00,004] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 06:27:00 PKT 2022
+[2022-02-06 06:27:00,004] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 06:27:30,063] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 06:27:30,063] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 06:30:00,005] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 06:30:00 PKT 2022
+[2022-02-06 06:30:00,005] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 06:30:30,066] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 06:30:30,066] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 06:33:00,026] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 06:33:00 PKT 2022
+[2022-02-06 06:33:00,026] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 06:33:30,035] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 06:33:30,035] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 06:36:00,001] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 06:36:00 PKT 2022
+[2022-02-06 06:36:00,001] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 06:36:30,043] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 06:36:30,043] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 06:39:00,004] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 06:39:00 PKT 2022
+[2022-02-06 06:39:00,004] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 06:39:30,046] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 06:39:30,046] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 06:42:00,005] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 06:42:00 PKT 2022
+[2022-02-06 06:42:00,005] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 06:42:30,041] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 06:42:30,041] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 06:45:00,003] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 06:45:00 PKT 2022
+[2022-02-06 06:45:00,003] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 06:45:30,048] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 06:45:30,048] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 06:48:00,005] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 06:48:00 PKT 2022
+[2022-02-06 06:48:00,005] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 06:48:30,045] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 06:48:30,045] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 06:51:00,014] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 06:51:00 PKT 2022
+[2022-02-06 06:51:00,014] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 06:51:30,059] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 06:51:30,059] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 06:54:00,030] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 06:54:00 PKT 2022
+[2022-02-06 06:54:00,030] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 06:54:30,066] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 06:54:30,066] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 06:57:00,008] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 06:57:00 PKT 2022
+[2022-02-06 06:57:00,008] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 06:57:30,047] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 06:57:30,047] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 07:00:00,009] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 07:00:00 PKT 2022
+[2022-02-06 07:00:00,009] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 07:00:30,051] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 07:00:30,051] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 07:03:00,010] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 07:03:00 PKT 2022
+[2022-02-06 07:03:00,010] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 07:03:30,057] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 07:03:30,057] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 07:06:00,010] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 07:06:00 PKT 2022
+[2022-02-06 07:06:00,010] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 07:06:30,028] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 07:06:30,028] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 07:09:00,011] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 07:09:00 PKT 2022
+[2022-02-06 07:09:00,011] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 07:09:30,055] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 07:09:30,055] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 07:12:00,004] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 07:12:00 PKT 2022
+[2022-02-06 07:12:00,004] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 07:12:30,036] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 07:12:30,036] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 07:15:00,006] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 07:15:00 PKT 2022
+[2022-02-06 07:15:00,022] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 07:15:30,064] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 07:15:30,064] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 07:18:00,016] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 07:18:00 PKT 2022
+[2022-02-06 07:18:00,016] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 07:18:30,044] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 07:18:30,044] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 07:21:00,008] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 07:21:00 PKT 2022
+[2022-02-06 07:21:00,008] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 07:21:30,043] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 07:21:30,043] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 07:24:00,008] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 07:24:00 PKT 2022
+[2022-02-06 07:24:00,008] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 07:24:30,049] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 07:24:30,049] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 07:27:00,008] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 07:27:00 PKT 2022
+[2022-02-06 07:27:00,008] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 07:27:30,041] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 07:27:30,041] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 07:30:00,015] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 07:30:00 PKT 2022
+[2022-02-06 07:30:00,015] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 07:30:30,062] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 07:30:30,062] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 07:33:00,004] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 07:33:00 PKT 2022
+[2022-02-06 07:33:00,004] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 07:33:30,038] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 07:33:30,038] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 07:36:00,012] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 07:36:00 PKT 2022
+[2022-02-06 07:36:00,012] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 07:36:30,049] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 07:36:30,049] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 07:39:00,003] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 07:39:00 PKT 2022
+[2022-02-06 07:39:00,003] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 07:39:30,037] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 07:39:30,037] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 07:42:00,039] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 07:42:00 PKT 2022
+[2022-02-06 07:42:00,039] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 07:42:30,063] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 07:42:30,063] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 07:45:00,010] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 07:45:00 PKT 2022
+[2022-02-06 07:45:00,010] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 07:45:30,056] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 07:45:30,056] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 07:48:00,003] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 07:48:00 PKT 2022
+[2022-02-06 07:48:00,003] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 07:48:30,048] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 07:48:30,048] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 07:51:00,005] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 07:51:00 PKT 2022
+[2022-02-06 07:51:00,005] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 07:51:30,043] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 07:51:30,043] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 07:54:00,005] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 07:54:00 PKT 2022
+[2022-02-06 07:54:00,005] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 07:54:30,039] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 07:54:30,039] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 07:57:00,026] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 07:57:00 PKT 2022
+[2022-02-06 07:57:00,026] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 07:57:30,072] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 07:57:30,072] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 08:00:00,003] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 08:00:00 PKT 2022
+[2022-02-06 08:00:00,003] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 08:00:30,037] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 08:00:30,037] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 08:03:00,013] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 08:03:00 PKT 2022
+[2022-02-06 08:03:00,013] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 08:03:30,030] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 08:03:30,030] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 08:06:00,001] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 08:06:00 PKT 2022
+[2022-02-06 08:06:00,001] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 08:06:30,017] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 08:06:30,017] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 08:09:00,005] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 08:09:00 PKT 2022
+[2022-02-06 08:09:00,005] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 08:09:30,028] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 08:09:30,028] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 08:12:00,010] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 08:12:00 PKT 2022
+[2022-02-06 08:12:00,010] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 08:12:30,028] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 08:12:30,028] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 08:15:00,011] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 08:15:00 PKT 2022
+[2022-02-06 08:15:00,011] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 08:15:30,045] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 08:15:30,045] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 08:18:00,044] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 08:18:00 PKT 2022
+[2022-02-06 08:18:00,044] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 08:18:30,082] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 08:18:30,082] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 08:21:00,004] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 08:21:00 PKT 2022
+[2022-02-06 08:21:00,004] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 08:21:30,038] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 08:21:30,038] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 08:24:00,009] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 08:24:00 PKT 2022
+[2022-02-06 08:24:00,009] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 08:24:30,051] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 08:24:30,051] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 08:27:00,040] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 08:27:00 PKT 2022
+[2022-02-06 08:27:00,040] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 08:27:30,059] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 08:27:30,059] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 08:30:00,012] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 08:30:00 PKT 2022
+[2022-02-06 08:30:00,012] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 08:30:30,028] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 08:30:30,028] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 08:33:00,015] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 08:33:00 PKT 2022
+[2022-02-06 08:33:00,015] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 08:33:30,051] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 08:33:30,051] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 08:36:00,010] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 08:36:00 PKT 2022
+[2022-02-06 08:36:00,010] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 08:36:30,047] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 08:36:30,047] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 08:39:00,014] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 08:39:00 PKT 2022
+[2022-02-06 08:39:00,014] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 08:39:30,052] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 08:39:30,052] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 08:42:00,008] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 08:42:00 PKT 2022
+[2022-02-06 08:42:00,008] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 08:42:30,029] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 08:42:30,029] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 08:45:00,006] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 08:45:00 PKT 2022
+[2022-02-06 08:45:00,006] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 08:45:30,026] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 08:45:30,026] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 08:48:00,007] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 08:48:00 PKT 2022
+[2022-02-06 08:48:00,007] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 08:48:30,048] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 08:48:30,048] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 08:51:00,015] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 08:51:00 PKT 2022
+[2022-02-06 08:51:00,015] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 08:51:30,061] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 08:51:30,061] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 08:54:00,026] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 08:54:00 PKT 2022
+[2022-02-06 08:54:00,026] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 08:54:30,060] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 08:54:30,060] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 08:57:00,011] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 08:57:00 PKT 2022
+[2022-02-06 08:57:00,011] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 08:57:30,029] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 08:57:30,029] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 09:00:00,008] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 09:00:00 PKT 2022
+[2022-02-06 09:00:00,008] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 09:00:30,059] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 09:00:30,059] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 09:03:00,001] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 09:03:00 PKT 2022
+[2022-02-06 09:03:00,001] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 09:03:30,052] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 09:03:30,052] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 09:06:00,010] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 09:06:00 PKT 2022
+[2022-02-06 09:06:00,010] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 09:06:30,053] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 09:06:30,053] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 09:09:00,008] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 09:09:00 PKT 2022
+[2022-02-06 09:09:00,008] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 09:09:30,053] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 09:09:30,053] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 09:12:00,011] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 09:12:00 PKT 2022
+[2022-02-06 09:12:00,011] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 09:12:30,046] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 09:12:30,046] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 09:15:00,003] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 09:15:00 PKT 2022
+[2022-02-06 09:15:00,003] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 09:15:30,062] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 09:15:30,062] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 09:18:00,021] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 09:18:00 PKT 2022
+[2022-02-06 09:18:00,021] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 09:18:30,027] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 09:18:30,027] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 09:21:00,018] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 09:21:00 PKT 2022
+[2022-02-06 09:21:00,018] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 09:21:30,059] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 09:21:30,059] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 09:24:00,014] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 09:24:00 PKT 2022
+[2022-02-06 09:24:00,014] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 09:24:30,036] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 09:24:30,036] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 09:27:00,012] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 09:27:00 PKT 2022
+[2022-02-06 09:27:00,012] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 09:27:30,046] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 09:27:30,046] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 09:30:00,003] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 09:30:00 PKT 2022
+[2022-02-06 09:30:00,003] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 09:30:30,048] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 09:30:30,048] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 09:33:00,004] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 09:33:00 PKT 2022
+[2022-02-06 09:33:00,004] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 09:33:30,027] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 09:33:30,027] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 09:36:00,014] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 09:36:00 PKT 2022
+[2022-02-06 09:36:00,014] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 09:36:30,056] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 09:36:30,056] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 09:39:00,006] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 09:39:00 PKT 2022
+[2022-02-06 09:39:00,006] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 09:39:30,043] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 09:39:30,043] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 09:42:00,040] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 09:42:00 PKT 2022
+[2022-02-06 09:42:00,040] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 09:42:30,076] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 09:42:30,076] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 09:45:00,006] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 09:45:00 PKT 2022
+[2022-02-06 09:45:00,006] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 09:45:30,045] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 09:45:30,045] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 09:48:00,003] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 09:48:00 PKT 2022
+[2022-02-06 09:48:00,003] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 09:48:30,035] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 09:48:30,035] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 09:51:00,007] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 09:51:00 PKT 2022
+[2022-02-06 09:51:00,007] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 09:51:30,024] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 09:51:30,024] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 09:54:00,006] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 09:54:00 PKT 2022
+[2022-02-06 09:54:00,006] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 09:54:30,049] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 09:54:30,049] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 09:57:00,005] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 09:57:00 PKT 2022
+[2022-02-06 09:57:00,005] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 09:57:30,046] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 09:57:30,046] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 10:00:00,011] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 10:00:00 PKT 2022
+[2022-02-06 10:00:00,012] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 10:00:30,093] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 10:00:30,093] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 10:03:00,005] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 10:03:00 PKT 2022
+[2022-02-06 10:03:00,005] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 10:03:30,037] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 10:03:30,037] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 10:06:00,007] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 10:06:00 PKT 2022
+[2022-02-06 10:06:00,007] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 10:06:30,057] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 10:06:30,057] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 10:09:00,011] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 10:09:00 PKT 2022
+[2022-02-06 10:09:00,027] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 10:09:30,043] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 10:09:30,043] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 10:12:00,014] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 10:12:00 PKT 2022
+[2022-02-06 10:12:00,014] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 10:12:30,068] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 10:12:30,068] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 10:15:00,010] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 10:15:00 PKT 2022
+[2022-02-06 10:15:00,010] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 10:15:30,051] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 10:15:30,051] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 10:18:00,004] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 10:18:00 PKT 2022
+[2022-02-06 10:18:00,004] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 10:18:30,044] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 10:18:30,044] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 10:21:00,023] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 10:21:00 PKT 2022
+[2022-02-06 10:21:00,023] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 10:21:30,055] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 10:21:30,055] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 10:24:00,010] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 10:24:00 PKT 2022
+[2022-02-06 10:24:00,010] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 10:24:30,057] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 10:24:30,057] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 10:27:00,015] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 10:27:00 PKT 2022
+[2022-02-06 10:27:00,015] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 10:27:30,052] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 10:27:30,052] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 10:30:00,002] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 10:30:00 PKT 2022
+[2022-02-06 10:30:00,002] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 10:30:30,038] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 10:30:30,038] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 10:33:00,014] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 10:33:00 PKT 2022
+[2022-02-06 10:33:00,014] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 10:33:30,059] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 10:33:30,059] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 10:36:00,009] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 10:36:00 PKT 2022
+[2022-02-06 10:36:00,009] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 10:36:30,039] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 10:36:30,039] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 10:39:00,010] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 10:39:00 PKT 2022
+[2022-02-06 10:39:00,010] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 10:39:30,061] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 10:39:30,061] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 10:42:00,012] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 10:42:00 PKT 2022
+[2022-02-06 10:42:00,012] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 10:42:30,049] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 10:42:30,049] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 10:45:00,009] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 10:45:00 PKT 2022
+[2022-02-06 10:45:00,009] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 10:45:30,058] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 10:45:30,058] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 10:48:00,014] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 10:48:00 PKT 2022
+[2022-02-06 10:48:00,014] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 10:48:30,066] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 10:48:30,066] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 10:51:00,009] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 10:51:00 PKT 2022
+[2022-02-06 10:51:00,009] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 10:51:30,047] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 10:51:30,047] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 10:54:00,011] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 10:54:00 PKT 2022
+[2022-02-06 10:54:00,011] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 10:54:30,070] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 10:54:30,070] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 10:57:00,001] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 10:57:00 PKT 2022
+[2022-02-06 10:57:00,001] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 10:57:30,043] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 10:57:30,043] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 11:00:00,006] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 11:00:00 PKT 2022
+[2022-02-06 11:00:00,006] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 11:00:30,047] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 11:00:30,047] [INFO] PatientBL:92 - In progress jobs finished
+[2022-02-06 11:03:00,010] [INFO] ConsolidateAndEvaluatePatientScheduler:29 - Job started @ Sun Feb 06 11:03:00 PKT 2022
+[2022-02-06 11:03:00,010] [INFO] PatientDAO:175 - Going to fetch records of patients. Is Service Start value is 0
+[2022-02-06 11:03:30,056] [INFO] PatientBL:60 - *************Schedular called for ID : Global Size : 0
+[2022-02-06 11:03:30,056] [INFO] PatientBL:92 - In progress jobs finished

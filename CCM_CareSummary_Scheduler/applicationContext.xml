@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:aop="http://www.springframework.org/schema/aop"
+	xmlns:context="http://www.springframework.org/schema/context"
+
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+           http://www.springframework.org/schema/beans/spring-beans-2.5.xsd
+           http://www.springframework.org/schema/aop
+           http://www.springframework.org/schema/aop/spring-aop-2.5.xsd
+           http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-2.5.xsd"
+          >
+
+ 
+ 	<context:annotation-config />
+    <context:component-scan base-package="com.persivia.ptf.common.ts.dao" />
+    <context:component-scan base-package="com.persivia.ptf.common.ts.usmm" />
+    <context:component-scan base-package="com.persivia.ptf.common.ts.service" />
+    <context:component-scan base-package="com.persivia.ptf.common.ts.output" />
+    <context:component-scan base-package="com.persivia.ptf.npm.dao" />
+    <context:component-scan base-package="com.persivia.ptf.npm.service" />
+    <context:component-scan base-package="com.persivia.ptf.common.config.dao" />
+    <context:component-scan base-package="com.persivia.ptf.common.config.service" />
+<!--     <context:component-scan base-package="com.persivia.ptf.common.config.custom" /> -->
+    
+    
+ 	<context:property-placeholder location="classpath:application.properties"/>
+    <bean 
+		class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer">
+		<property name="location">
+			<value>classpath:application.properties</value>
+		</property>
+	</bean>
+      <!-- <bean id="sftpSessionFactory" class="org.springframework.integration.file.remote.session.CachingSessionFactory">
+		<constructor-arg ref="defaultSftpSessionFactory" />
+	</bean>
+     <bean id="defaultSftpSessionFactory" class="org.springframework.integration.sftp.session.DefaultSftpSessionFactory">
+		<property name="host" value="${ptf.sftp.host}"/>
+		<property name="port" value="${ptf.sftp.port}"/>
+		<property name="user" value="${ptf.sftp.user}"/>
+		<property name="password" value="${ptf.sftp.password}"/>
+		<property name="allowUnknownKeys" value="true"/>
+	</bean>
+     
+     <int:channel id="inputChannel"/>
+     
+     <int-sftp:outbound-channel-adapter id="sftpOutboundAdapter"
+				session-factory="sftpSessionFactory"
+				channel="inputChannel"
+				remote-filename-generator-expression="headers['file_name']"
+				remote-directory="${ptf.sftp.directory}">
+		<int-sftp:request-handler-advice-chain>
+			<int:retry-advice />
+		</int-sftp:request-handler-advice-chain>
+	</int-sftp:outbound-channel-adapter>
+	
+	<int-sftp:inbound-channel-adapter id="sftpInbondAdapter"
+			auto-startup="false"
+			channel="receiveChannel"
+			session-factory="sftpSessionFactory"
+			local-directory="${ptf.sftp.local.direstory}"
+			remote-directory="${ptf.sftp.directory}"
+			auto-create-local-directory="true"
+			delete-remote-files="true"
+			filename-regex=".*\.*">
+
+
+<int:poller fixed-rate="1" max-messages-per-poll="1"/> -->
+
+<!-- 		<int:poller cron="*/-1 * * * * *" max-messages-per-poll="100"/> -->
+		
+	<!-- </int-sftp:inbound-channel-adapter> -->
+	
+	<!-- <int:channel id="receiveChannel">
+		<int:queue/>
+	</int:channel> -->
+	
+     
+     <bean id="defaultDS" class="com.mchange.v2.c3p0.ComboPooledDataSource" destroy-method="close">
+		<property name="driverClass" value="com.microsoft.sqlserver.jdbc.SQLServerDriver" />
+		<property name="jdbcUrl" value="${ptf.jdbc.url}" />
+		<property name="user" value="${ptf.jdbc.username}" />
+		<property name="password" value="${ptf.jdbc.password}" />
+		<property name="maxPoolSize" value="${ptf.jdbc.maxPoolSize}" />
+		<property name="minPoolSize" value="${ptf.jdbc.minPoolSize}" />
+		<property name="maxStatements" value="${ptf.jdbc.maxStatements}" />
+		<property name="testConnectionOnCheckout" value="${ptf.jdbc.testConnectionOnCheckout}" />
+	</bean>
+	
+	<bean id="pesDS" class="com.mchange.v2.c3p0.ComboPooledDataSource" destroy-method="close">
+		<property name="driverClass" value="com.microsoft.sqlserver.jdbc.SQLServerDriver" />
+		<property name="jdbcUrl" value="${ptf.jdbc.pes.url}" />
+		<property name="user" value="${ptf.jdbc.pes.username}" />
+		<property name="password" value="${ptf.jdbc.pes.password}" />
+		<property name="maxPoolSize" value="${ptf.jdbc.pes.maxPoolSize}" />
+		<property name="minPoolSize" value="${ptf.jdbc.pes.minPoolSize}" />
+		<property name="maxStatements" value="${ptf.jdbc.pes.maxStatements}" />
+		<property name="testConnectionOnCheckout" value="${ptf.jdbc.pes.testConnectionOnCheckout}" />
+	</bean>
+	
+	<bean id="npmDS" class="com.mchange.v2.c3p0.ComboPooledDataSource" destroy-method="close">
+		<property name="driverClass" value="com.microsoft.sqlserver.jdbc.SQLServerDriver" />
+		<property name="jdbcUrl" value="${ptf.jdbc.npm.url}" />
+		<property name="user" value="${ptf.jdbc.npm.username}" />
+		<property name="password" value="${ptf.jdbc.npm.password}" />
+		<property name="maxPoolSize" value="${ptf.jdbc.npm.maxPoolSize}" />
+		<property name="minPoolSize" value="${ptf.jdbc.npm.minPoolSize}" />
+		<property name="maxStatements" value="${ptf.jdbc.npm.maxStatements}" />
+		<property name="testConnectionOnCheckout" value="${ptf.jdbc.pes.testConnectionOnCheckout}" />
+	</bean>
+	
+	<bean id="cmDS" class="com.mchange.v2.c3p0.ComboPooledDataSource" destroy-method="close">
+		<property name="driverClass" value="com.microsoft.sqlserver.jdbc.SQLServerDriver" />
+		<property name="jdbcUrl" value="${ptf.jdbc.cm.url}" />
+		<property name="user" value="${ptf.jdbc.cm.username}" />
+		<property name="password" value="${ptf.jdbc.cm.password}" />
+		<property name="maxPoolSize" value="${ptf.jdbc.cm.maxPoolSize}" />
+		<property name="minPoolSize" value="${ptf.jdbc.cm.minPoolSize}" />
+		<property name="maxStatements" value="${ptf.jdbc.cm.maxStatements}" />
+		<property name="testConnectionOnCheckout" value="${ptf.jdbc.pes.testConnectionOnCheckout}" />
+	</bean>
+	
+	<bean id="portalDS" class="com.mchange.v2.c3p0.ComboPooledDataSource" destroy-method="close">
+		<property name="driverClass" value="com.microsoft.sqlserver.jdbc.SQLServerDriver" />
+		<property name="jdbcUrl" value="${ptf.jdbc.portal.url}" />
+		<property name="user" value="${ptf.jdbc.portal.username}" />
+		<property name="password" value="${ptf.jdbc.portal.password}" />
+		<property name="maxPoolSize" value="${ptf.jdbc.portal.maxPoolSize}" />
+		<property name="minPoolSize" value="${ptf.jdbc.portal.minPoolSize}" />
+		<property name="maxStatements" value="${ptf.jdbc.portal.maxStatements}" />
+		<property name="testConnectionOnCheckout" value="${ptf.jdbc.portal.testConnectionOnCheckout}" />
+	</bean>
+	
+	<bean id="platformJdbcTemplate"
+ 		class="org.springframework.jdbc.core.JdbcTemplate">
+   		<constructor-arg ref="defaultDS" />
+  	</bean>
+
+	<bean id="npmJdbcTemplate"
+ 		class="org.springframework.jdbc.core.JdbcTemplate">
+   		<constructor-arg ref="npmDS" />
+  	</bean>
+  	
+  	<bean id="cmJdbcTemplate"
+ 		class="org.springframework.jdbc.core.JdbcTemplate">
+   		<constructor-arg ref="cmDS" />
+  	</bean>
+
+	
+	<bean id="transactionManager"
+ 		class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+   		<property name="dataSource" ref="defaultDS" />
+  </bean>
+  
+  <bean id="pesTransactionManager"
+ 		class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+   		<property name="dataSource" ref="pesDS" />
+  </bean>
+  
+	 
+</beans>

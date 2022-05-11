@@ -1,0 +1,3 @@
+
+cd /home/persivia/CCM_Scheduler_Service_Prime
+java -jar patient-scheduler-service-Prime.jar
